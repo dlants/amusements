@@ -10,6 +10,7 @@ import { renderSitemap } from "./render/sitemap";
 import { renderArchive } from "./render/archive";
 import { renderHome } from "./render/home";
 import { renderTagPage } from "./render/tag-page";
+import { renderButtondown } from "./render/buttondown";
 
 yargs
   .command(
@@ -90,6 +91,13 @@ yargs
 
       renderFeed(posts, siteConfig);
       await renderSitemap(posts, siteConfig);
+
+      // Render buttondown subscription page
+      if (siteConfig.buttondownId) {
+        const buttondownHtml = renderButtondown(siteConfig, pages);
+        fs.writeFileSync(path.join(outDir, "buttondown.html"), buttondownHtml);
+        console.log("wrote buttondown.html");
+      }
 
       console.log(`Built ${posts.size} posts to ${outDir}/`);
     },

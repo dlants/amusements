@@ -105,9 +105,9 @@ export function renderHeader(
           {cfg.buttondownId ? (
             <div className={classes(css.headerItem, css.subscribe)}>
               {"| "}
-              <a href="/rss">rss</a>{" "}
-              <a href="/atom">atom</a>{" "}
-              <a href="/buttondown.html">newsletter</a>
+              <a href="rss">rss</a>{" "}
+              <a href="atom">atom</a>{" "}
+              <a href="buttondown.html">newsletter</a>
             </div>
           ) : (
             ""
