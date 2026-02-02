@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>dlants.me - education</title>
+        <link>https://dlants.me/education.html</link>
+        <description>Posts tagged education</description>
+        <lastBuildDate>Mon, 02 Feb 2026 13:55:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>dlants.me - education</title>
+            <url>https://dlants.me/black-rectangle.svg</url>
+            <link>https://dlants.me/education.html</link>
+        </image>
+        <copyright>All rights reserved, 2023, Denis Lantsman</copyright>
+        <atom:link href="https://dlants.me/education/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bloom’s 2 Sigma Problem]]></title>
+            <link>https://dlants.me/bloom.html</link>
+            <guid>bloom</guid>
+            <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[The greatest mystery in ed-tech]]></title>
+            <link>https://dlants.me/mystery.html</link>
+            <guid>mystery</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[SFUSD Algebra 1 re-take Statistics]]></title>
+            <link>https://dlants.me/sfusd-stats.html</link>
+            <guid>sfusd-stats</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 5 - Learning to Lead with Noelle Tabor]]></title>
+            <link>https://dlants.me/teacherstories-5-noelle-tabor.html</link>
+            <guid>teacherstories-5-noelle-tabor</guid>
+            <pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 4 - Meddlesome Models with Peg Cagle]]></title>
+            <link>https://dlants.me/teacherstories-4-peg-cagle.html</link>
+            <guid>teacherstories-4-peg-cagle</guid>
+            <pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 3 - Changes, Changes with Ethan Weker]]></title>
+            <link>https://dlants.me/teacherstories-3-ethan-weker.html</link>
+            <guid>teacherstories-3-ethan-weker</guid>
+            <pubDate>Thu, 23 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 2 - Cheeky Charters with Faith Moynihan]]></title>
+            <link>https://dlants.me/teacherstories-2-faith-moynihan.html</link>
+            <guid>teacherstories-2-faith-moynihan</guid>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 1 - Textbook Trouble with Mike Flynn]]></title>
+            <link>https://dlants.me/teacherstories-1-mike-flynn.html</link>
+            <guid>teacherstories-1-mike-flynn</guid>
+            <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Math Autobiography]]></title>
+            <link>https://dlants.me/math-autobiography.html</link>
+            <guid>math-autobiography</guid>
+            <pubDate>Tue, 13 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+    </channel>
+</rss>

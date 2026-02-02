@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dlants.me/education</id>
+    <title>dlants.me - education</title>
+    <updated>2026-02-02T13:55:49.637Z</updated>
+    <generator>awesome</generator>
+    <author>
+        <name>Denis Lantsman</name>
+        <email>mail@mail.dlants.me</email>
+        <uri>https://dlants.me</uri>
+    </author>
+    <link rel="alternate" href="https://dlants.me/education.html"/>
+    <link rel="self" href="https://dlants.me/education/atom"/>
+    <subtitle>Posts tagged education</subtitle>
+    <logo>https://dlants.me/black-rectangle.svg</logo>
+    <rights>All rights reserved, 2023, Denis Lantsman</rights>
+    <entry>
+        <title type="html"><![CDATA[Bloom’s 2 Sigma Problem]]></title>
+        <id>bloom</id>
+        <link href="https://dlants.me/bloom.html"/>
+        <updated>2023-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The greatest mystery in ed-tech]]></title>
+        <id>mystery</id>
+        <link href="https://dlants.me/mystery.html"/>
+        <updated>2023-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFUSD Algebra 1 re-take Statistics]]></title>
+        <id>sfusd-stats</id>
+        <link href="https://dlants.me/sfusd-stats.html"/>
+        <updated>2021-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Stories Episode 5 - Learning to Lead with Noelle Tabor]]></title>
+        <id>teacherstories-5-noelle-tabor</id>
+        <link href="https://dlants.me/teacherstories-5-noelle-tabor.html"/>
+        <updated>2020-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Stories Episode 4 - Meddlesome Models with Peg Cagle]]></title>
+        <id>teacherstories-4-peg-cagle</id>
+        <link href="https://dlants.me/teacherstories-4-peg-cagle.html"/>
+        <updated>2020-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Stories Episode 3 - Changes, Changes with Ethan Weker]]></title>
+        <id>teacherstories-3-ethan-weker</id>
+        <link href="https://dlants.me/teacherstories-3-ethan-weker.html"/>
+        <updated>2020-04-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Stories Episode 2 - Cheeky Charters with Faith Moynihan]]></title>
+        <id>teacherstories-2-faith-moynihan</id>
+        <link href="https://dlants.me/teacherstories-2-faith-moynihan.html"/>
+        <updated>2020-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Stories Episode 1 - Textbook Trouble with Mike Flynn]]></title>
+        <id>teacherstories-1-mike-flynn</id>
+        <link href="https://dlants.me/teacherstories-1-mike-flynn.html"/>
+        <updated>2019-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math Autobiography]]></title>
+        <id>math-autobiography</id>
+        <link href="https://dlants.me/math-autobiography.html"/>
+        <updated>2017-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
+</feed>

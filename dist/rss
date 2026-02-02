@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>dlants.me</title>
+        <link>https://dlants.me</link>
+        <description>Writing about things that I feel like writing about</description>
+        <lastBuildDate>Mon, 02 Feb 2026 13:52:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>dlants.me</title>
+            <url>https://dlants.me/black-rectangle.svg</url>
+            <link>https://dlants.me</link>
+        </image>
+        <copyright>All rights reserved, 2023, Denis Lantsman</copyright>
+        <category>Technology</category>
+        <category>Education</category>
+        <category>Climbing</category>
+        <category>Training</category>
+        <category>Tech</category>
+        <category>Ed-Tech</category>
+        <atom:link href="https://dlants.me/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[self compassion and the disposable engineer]]></title>
+            <link>https://dlants.me/self-compassion.html</link>
+            <guid>self-compassion</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI whiplash, and neovim in the age of AI]]></title>
+            <link>https://dlants.me/ai-whiplash.html</link>
+            <guid>ai-whiplash</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ecological Dynamics and the Constraints Led Approach to Software Engineering Teams]]></title>
+            <link>https://dlants.me/ed-cla-software-teams.html</link>
+            <guid>ed-cla-software-teams</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI is not mid - a response to Dr. Cottom’s NYT Op-Ed]]></title>
+            <link>https://dlants.me/ai-mid.html</link>
+            <guid>ai-mid</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[coding agents in the real world]]></title>
+            <link>https://dlants.me/claude-3-7-agent.html</link>
+            <guid>claude-3-7-agent</guid>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[The LLMonely bookclub - Three Body Problem by Cixin Liu]]></title>
+            <link>https://dlants.me/llmonely-threebody.html</link>
+            <guid>llmonely-threebody</guid>
+            <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ecological Dynamics and Capacity Training in Climbing]]></title>
+            <link>https://dlants.me/climbing-ed-capacity.html</link>
+            <guid>climbing-ed-capacity</guid>
+            <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ecological Dynamics and the Constraints Lead Approach to Skill Acquisition in Climbing]]></title>
+            <link>https://dlants.me/climbing-ed-cla.html</link>
+            <guid>climbing-ed-cla</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bloom’s 2 Sigma Problem]]></title>
+            <link>https://dlants.me/bloom.html</link>
+            <guid>bloom</guid>
+            <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Book Review: The Sports Gene]]></title>
+            <link>https://dlants.me/sports-gene.html</link>
+            <guid>sports-gene</guid>
+            <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Goodbye, Substack. Hello, self-hosting.]]></title>
+            <link>https://dlants.me/bye-substack.html</link>
+            <guid>bye-substack</guid>
+            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[The greatest mystery in ed-tech]]></title>
+            <link>https://dlants.me/mystery.html</link>
+            <guid>mystery</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Docker gotchas]]></title>
+            <link>https://dlants.me/docker-gotchas.html</link>
+            <guid>docker-gotchas</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Training Log Jan-Jul 2023: Healing my broken body]]></title>
+            <link>https://dlants.me/climbing-log-2023.html</link>
+            <guid>climbing-log-2023</guid>
+            <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Odin Project Q&A]]></title>
+            <link>https://dlants.me/odin-qa.html</link>
+            <guid>odin-qa</guid>
+            <pubDate>Sat, 25 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 16: Burnout. Lessons learned. New beginnings.]]></title>
+            <link>https://dlants.me/climbing-log-16.html</link>
+            <guid>climbing-log-16</guid>
+            <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 15: Weeks 1 and 2 of Cycle 4. Lazy Fingers. Consistency vs Fun.]]></title>
+            <link>https://dlants.me/climbing-log-15.html</link>
+            <guid>climbing-log-15</guid>
+            <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Thoughts on Twitter]]></title>
+            <link>https://dlants.me/twitter-2022.html</link>
+            <guid>twitter-2022</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 14: Week 4 of Cycle 3. Changes for meso 2.]]></title>
+            <link>https://dlants.me/climbing-log-14.html</link>
+            <guid>climbing-log-14</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 13: Week 3 of Cycle 3. Candy + Sends. 3-cycle feedback.]]></title>
+            <link>https://dlants.me/climbing-log-13.html</link>
+            <guid>climbing-log-13</guid>
+            <pubDate>Sun, 06 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 12: Week 2 of Cycle 3. Finger injury. Sessions that don’t mix.]]></title>
+            <link>https://dlants.me/climbing-log-12.html</link>
+            <guid>climbing-log-12</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 11: Week 1 of Cycle 3. Still sick. Minimalism.]]></title>
+            <link>https://dlants.me/climbing-log-11.html</link>
+            <guid>climbing-log-11</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 10: Week 4 of Cycle 2. De-load 2. Board sends. Sick.]]></title>
+            <link>https://dlants.me/climbing-log-10.html</link>
+            <guid>climbing-log-10</guid>
+            <pubDate>Sun, 16 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 9: Week 3 of Cycle 2. Going to failure. Patience.]]></title>
+            <link>https://dlants.me/climbing-log-9.html</link>
+            <guid>climbing-log-9</guid>
+            <pubDate>Sun, 09 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 8: Week 2 of Cycle 2. Motivation, perfectionism, climbing vs training.]]></title>
+            <link>https://dlants.me/climbing-log-8.html</link>
+            <guid>climbing-log-8</guid>
+            <pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Heroes: Exploring humanity through dog training.]]></title>
+            <link>https://dlants.me/heroes.html</link>
+            <guid>heroes</guid>
+            <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 7: Start of cycle 2.]]></title>
+            <link>https://dlants.me/climbing-log-7.html</link>
+            <guid>climbing-log-7</guid>
+            <pubDate>Sun, 25 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 6.5: The Pain Log]]></title>
+            <link>https://dlants.me/climbing-log-6.5.html</link>
+            <guid>climbing-log-6.5</guid>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 6: De-load week 1.]]></title>
+            <link>https://dlants.me/climbing-log-6.html</link>
+            <guid>climbing-log-6</guid>
+            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 5: Week 3 of training. More progress. Finding the routine. Easing off.]]></title>
+            <link>https://dlants.me/climbing-log-5.html</link>
+            <guid>climbing-log-5</guid>
+            <pubDate>Sat, 10 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 4: Slight progress. Hints of trouble.]]></title>
+            <link>https://dlants.me/climbing-log-4.html</link>
+            <guid>climbing-log-4</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 3: Week 1 of training. Tension board. Pain]]></title>
+            <link>https://dlants.me/climbing-log-3.html</link>
+            <guid>climbing-log-3</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 2: Goals. Assessment results. The training plan.]]></title>
+            <link>https://dlants.me/climbing-log-2.html</link>
+            <guid>climbing-log-2</guid>
+            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lattice Training Log Part 1: Why Lattice? Predictions, Onboarding.]]></title>
+            <link>https://dlants.me/climbing-log-1.html</link>
+            <guid>climbing-log-1</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[SFUSD Algebra 1 re-take Statistics]]></title>
+            <link>https://dlants.me/sfusd-stats.html</link>
+            <guid>sfusd-stats</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tao of Software Engineering 2]]></title>
+            <link>https://dlants.me/tao-2.html</link>
+            <guid>tao-2</guid>
+            <pubDate>Fri, 19 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tao of Software Engineering 1]]></title>
+            <link>https://dlants.me/tao-1.html</link>
+            <guid>tao-1</guid>
+            <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 5 - Learning to Lead with Noelle Tabor]]></title>
+            <link>https://dlants.me/teacherstories-5-noelle-tabor.html</link>
+            <guid>teacherstories-5-noelle-tabor</guid>
+            <pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 4 - Meddlesome Models with Peg Cagle]]></title>
+            <link>https://dlants.me/teacherstories-4-peg-cagle.html</link>
+            <guid>teacherstories-4-peg-cagle</guid>
+            <pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 3 - Changes, Changes with Ethan Weker]]></title>
+            <link>https://dlants.me/teacherstories-3-ethan-weker.html</link>
+            <guid>teacherstories-3-ethan-weker</guid>
+            <pubDate>Thu, 23 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 2 - Cheeky Charters with Faith Moynihan]]></title>
+            <link>https://dlants.me/teacherstories-2-faith-moynihan.html</link>
+            <guid>teacherstories-2-faith-moynihan</guid>
+            <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Teacher Stories Episode 1 - Textbook Trouble with Mike Flynn]]></title>
+            <link>https://dlants.me/teacherstories-1-mike-flynn.html</link>
+            <guid>teacherstories-1-mike-flynn</guid>
+            <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Desmos blog post about Pratt Parsers]]></title>
+            <link>https://dlants.me/desmos-pratt.html</link>
+            <guid>desmos-pratt</guid>
+            <pubDate>Fri, 21 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[Math Autobiography]]></title>
+            <link>https://dlants.me/math-autobiography.html</link>
+            <guid>math-autobiography</guid>
+            <pubDate>Tue, 13 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[lossless video recording with opencv]]></title>
+            <link>https://dlants.me/lossless-opencv.html</link>
+            <guid>lossless-opencv</guid>
+            <pubDate>Fri, 31 Aug 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[converting from openni map to opencv mat.]]></title>
+            <link>https://dlants.me/mat-conversion.html</link>
+            <guid>mat-conversion</guid>
+            <pubDate>Tue, 19 Jun 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[kinect timing issues]]></title>
+            <link>https://dlants.me/kinect-timing.html</link>
+            <guid>kinect-timing</guid>
+            <pubDate>Mon, 18 Jun 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+        <item>
+            <title><![CDATA[open a videowriter based on a videocapture]]></title>
+            <link>https://dlants.me/videowriter.html</link>
+            <guid>videowriter</guid>
+            <pubDate>Fri, 15 Jun 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
+    </channel>
+</rss>

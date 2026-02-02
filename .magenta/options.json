@@ -1,0 +1,7 @@
+{
+  "commandConfig": {
+    "commands": [
+      ["npx", "tsc", "--noEmit"]
+    ]
+  }
+}
