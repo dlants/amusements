@@ -120,3 +120,51 @@ Inline links like `[text](https://youtube.com/...)` remain as regular links.
   - Outputs to `posts/` directory
   - Copies images to `static/images/{post-shortUrl}/`
   - Handles captioned images with the `::image` syntax
+
+## Research Notes
+
+Research notes live in `notes/` subdirectories (e.g., `notes/human-level-ai-predictions/`).
+
+### Citation Requirements
+
+**Every factual claim in research notes must include a URL where that information can be verified.**
+
+Format citations inline after the claim:
+```
+OpenAI lost approximately $5B in 2024. [source](https://example.com/article)
+```
+
+Or use footnote-style for multiple citations:
+```
+OpenAI's infrastructure commitments total $1.4T over 8 years.[^1]
+
+[^1]: https://example.com/openai-infrastructure-deals
+```
+
+Do NOT use placeholder citation formats like `<cite index="1-6">` - these are not real citations.
+
+**Source Preferences:**
+- Prefer primary sources (investor relations pages, SEC filings, company earnings reports) over mainstream media summaries
+- For financial figures, always include the specific quarter/date the number is from
+- When citing analyst estimates that aren't publicly available (e.g., Mizuho Securities reports), it's acceptable to cite a secondary source but note that it's citing the primary source
+- Mainstream news articles (CNBC, etc.) are often imprecise - prefer investor research sites or official company sources when possible
+
+**Research Process:**
+- When a secondary source cites a number, trace back to the original source (e.g., "The Information viewed shareholder documents" is better than "Yahoo Finance reported")
+- If a source doesn't explain where a number came from, don't trust it blindly - note that it's unsourced or find corroboration
+- Check if the current date means newer data should be available (e.g., if it's 2026, 2025 full-year numbers should exist)
+- Do follow-up searches when initial results are outdated or incomplete
+
+**Distinguish Between Metrics:**
+- ARR (Annual Recurring Revenue) ≠ actual annual revenue. ARR is a single month × 12 and companies report it when it looks best
+- Clearly separate: confirmed actuals vs targets/projections vs claims
+- Note when figures are disputed and cite both sides
+
+**Formatting:**
+- Avoid jargon (e.g., use "first half" not "H1")
+- Prefer bulleted lists over tables for readability
+- Organize by category (e.g., separate Revenue section from Costs section)
+- Keep source URLs inline with each data point, not in footnotes
+
+**Calculations:**
+- Use Python scripts (via bash) for any math calculations - don't do arithmetic in your head
