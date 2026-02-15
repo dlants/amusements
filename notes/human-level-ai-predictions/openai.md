@@ -10,22 +10,15 @@ OpenAI is a private company, and it runs on investment!
 
 ### Microsoft investment timeline
 
-Microsoft is OpenAI's most important investor, providing both cash and Azure compute credits:
+Microsoft is OpenAI's most important investor, providing both cash and Azure compute credits.
 
-- **July 2019:** $1 billion — Microsoft became OpenAI's exclusive cloud provider [source](https://www.startupbooted.com/openai-valuation-history)
-- **2021:** Additional funding (NYT reports ~$2B total between 2019 and early 2023) [source](https://techcrunch.com/2023/01/23/microsoft-invests-billions-more-dollars-in-openai-extends-partnership/)
-- **January 2023:** $10 billion [source](https://www.startupbooted.com/openai-valuation-history)
-- **October 2024:** $750 million (part of $6.6B round) [source](https://www.startupbooted.com/openai-valuation-history)
-- **Total committed:** $13 billion, with **$11.6 billion funded** as of September 2025 [source](https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html)
+In total, they have committed 13 billion, with $11.6 billion funded as of September 2025 [source](https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html)
 
-**Cash vs credits:** We don't have a breakdown, but training compute is paid via Azure credits (part of the investment), while inference is paid in cash.
-
-**Future commitment:** OpenAI has contracted to purchase $250 billion in Azure services going forward [source](https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html)
+We don't have a breakdown for cash vs Azure credits, but training compute is paid via Azure credits (part of the investment), while inference is paid in cash.
 
 ### Other key investors
 
 - SoftBank: $30 billion (lead in Series F) [source](https://taptwicedigital.com/stats/openai)
-- NVIDIA: $100 million (October 2024, Series E) [source](https://taptwicedigital.com/stats/openai)
 
 ### Future funding (December 2025)
 
@@ -90,9 +83,7 @@ Projecting this growth through year-end:
 - OpenAI's $13B target would be slightly missed (~$12.1B)
 - Sam Altman's claim of "well more" than $13B (BG2 podcast, November 2025) [source](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) appears overstated—actual 2025 revenue likely ~$12B
 
-**Projections:**
-
-- 2028: $100B (OpenAI internal projection from Q3 2025, per The Information) [source](https://www.theinformation.com/articles/openai-targets-more-than-100-billion-in-revenue-by-2029)
+Key takeaway: Dec 2025 revenue is about 1.6B, growth is about 10%/mo
 
 ## Expenses & Losses
 
@@ -144,36 +135,90 @@ The Information viewed OpenAI shareholder documents showing H1 2025 results. Key
 - R&D: $6.7B [source](https://sacra.com/c/openai/)
 - Sales & advertising: $2B (nearly 2× full-year 2024 budget)
 - Cost of revenue: ~$2.5B
-- **Subtotal: ~$11.2B**
+- **Subtotal: $11.2B**
 
-Recall Zitron's numbers. Based on those, H1 2025 inference should be approximately $4.8B, but these documents show casj burn at 2.5B. A 2× discrepancy. I don't really know how to account for this.
+In this same document, we see that revenue for H1 was 4.3B, for a net loss of 6.9B.
 
-The difference between the subtotal (11.2B) and the cost of revenue (2.5B) can be explained by:
+Recall Zitron's numbers. Based on those, H1 2025 inference should be approximately $4.8B, but these documents show cash burn at 2.5B. A 2× discrepancy. I don't really know how to account for this.
 
-- Stock compensation: ~$2.5B (shares, not cash)
-- Training compute: Paid via Microsoft Azure credits (part of their investment), not cash
-
-**What this means:** The R&D figure ($6.7B) includes non-cash items like stock comp and possibly training compute credits. We can't cleanly separate "how much did OpenAI spend on training" from these numbers.
-
-**Discrepancy with Microsoft documents:** The Information reports "cost of revenue" at $2.5B for H1 2025, but Zitron's Microsoft documents show inference alone was $5B for H1 2025. Either:
+maybe...
 
 - "Cost of revenue" excludes some inference costs
 - The Information's source had incomplete data
 - Different accounting treatment
 
+### Combining this info
+
+Assuming a 10% monthly growth in usage, these numbers add up to:
+
+Zitron: 1.8B inference cost in Dec 2025
+The Information: .92B inference cost in Dec 2025
+
+(Recall that we estimated revenue for this month to be 1.6B.)
+
+This is a 2x discrepancy. Probably the cost is somewhere in between.
+
+### WSJ investor documents (reported November 2025)
+
+The Wall Street Journal obtained internal OpenAI financial documents that were "shared with investors this summer" (2025). The exact timing is unclear — could be May (before H1 closed) or July-August (after H1 actuals were known). The documents project $13B 2025 revenue, which matches late-summer timing when ARR had reached ~$13B. WSJ reported on these documents in November 2025. [source](https://fortune.com/2025/11/12/openai-cash-burn-rate-annual-losses-2028-profitable-2030-financial-documents/)
+
+**Loss projections from these documents:**
+
+- 2024: ~$5B loss
+- 2025: ~$9B loss ($1.69 spent per $1 of revenue)
+- 2026-2027: Burn rate at 57% of revenue
+- 2028: ~$74B in operating losses (burn rate rises to ~75% of revenue, which is expected to be 100bn)
+
 ### Q3 2025 loss (Microsoft SEC filing)
 
-Ed Zitron reported that Microsoft's Q1 FY2026 SEC filing (covering July-September 2025) showed **OpenAI lost $12B in that single quarter**. [source](https://www.wheresyoured.at/where-is-openais-money-going/)
+Microsoft's Q1 FY2026 10-Q filing (covering July-September 2025) provides the clearest picture of OpenAI's finances we have, because Microsoft uses **equity method accounting** — they record their proportional share of OpenAI's actual net income or loss. [source](https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm)
 
-This is 4-5x the H1 2025 cash burn rate ($2.5B over 6 months).
+**What the filing says:**
 
-**TODO:** Trace this to the actual Microsoft 10-Q filing and verify. Zitron claims this is "actual, real accounting" from SEC filings, not leaked documents.
+> "We have an investment in OpenAI Global, LLC ('OpenAI') and have made total funding commitments of $13 billion, of which $11.6 billion has been funded as of September 30, 2025. The investment is accounted for under the equity method of accounting, with our share of OpenAI's income or loss recognized in other income (expense), net."
 
-### Key Insights
+> "Current year net income and diluted EPS were negatively impacted by net losses from investments in OpenAI, which resulted in a decrease in net income and diluted EPS of $3.1 billion and $0.41, respectively."
 
-- **Inference is the real cash bleed:** $3.8B (2024) → $8.65B (first 9 months of 2025). This is actual money, not credits.
-- **Training costs are obscured:** Paid via Microsoft investment credits, so they don't appear as cash expenses.
-- **We can't derive revenue from revenue share:** The leaked numbers are NET (after Microsoft's payments to OpenAI are deducted), and Microsoft doesn't disclose Bing/Azure OpenAI revenue.
+**Deriving OpenAI's total loss:**
+
+Microsoft's $3.1B hit represents their share of OpenAI's net loss. To get the total:
+
+- Microsoft owns **27%** of OpenAI (disclosed in the same filing)
+- But before the for-profit conversion (during Q3), their stake was **32.5%**
+- The $3.1B figure is **after tax**; page 37 shows the pre-tax loss was **$4.1B**
+
+Using the more accurate pre-tax figure and original ownership:
+
+```
+$4.1B / 0.325 = $12.6B total OpenAI net loss for Q3 2025
+```
+
+**What "net loss" means:**
+
+This is standard accounting: Revenue minus Expenses = negative number. Not a valuation change, not cash burn — actual income statement loss.
+
+Our earlier estimate of revenue would put them at:
+July: $1,000M
+Aug: $1,104M
+Sep: $1,219M
+Q3 Total: $3,323M = $3.32B
+
+A $12.6B loss implies $16B in total expenses for the quarter. This seems implausibly high compared to the H1 2025 leaked data ($11.2B for 6 months, implying ~$1.9B/month vs ~$5.3B/month in Q3).
+
+**Analysts noticed this too:**
+
+On Microsoft's earnings call, UBS analyst Karl Keirstead pressed CFO Amy Hood: "The investment in OpenAI that sits [in] other income at $4.1 billion is so large... It feels like it's so much larger than you were running through other income in prior quarters that it mustn't just be your share of the OpenAI losses." [source](https://www.thurrott.com/a-i/openai-a-i/329108/openai-lost-12-billion-in-the-previous-quarter)
+
+Hood's response was vague: "That increased loss was all due to our percentage of losses and OpenAI equity method, just to be very clear." She didn't explain why the number was dramatically larger than one year ago ($523M → $3.1B), nor address expectations for future quarters.
+
+Ed Zitron also flagged the discrepancy: "In the space of three months, OpenAI's costs went from a net loss of $13.5bn in six months to a net loss of $12bn in three months. Though there are likely losses related to stock-based compensation, this only represented a cost of $2.5bn in the first half of 2025." [source](https://www.wheresyoured.at/where-is-openais-money-going/)
+
+**No satisfying explanation exists.** Possible factors:
+
+- Stock compensation vesting events (but H1 stock comp was only $2.5B)
+- Massive training runs in Q3
+- The H1 leaked numbers were incomplete
+- Accounting differences between internal docs and GAAP
 
 ## Commitments
 
@@ -213,12 +258,124 @@ These are announcements/MOUs, not necessarily binding contracts. The deals ramp 
 
 ## Projections
 
-- **Cumulative losses before profitability:** Could reach $143 billion (Deutsche Bank forecast) [source](https://www.tradingkey.com/analysis/stocks/us-stocks/261490879-openai-revenue-advertisement-tradingkey)
-- **Funding gap by 2030:** $207 billion (HSBC estimate) [source](https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html)
-- **IPO:** Potentially at $1 trillion valuation as early as late 2026 [source](https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html)
+### Expense projections (per WSJ investor documents, Nov 2025)
 
-## Users
+The Wall Street Journal obtained internal OpenAI financial documents shared with investors. [source](https://fortune.com/2025/11/12/openai-cash-burn-rate-annual-losses-2028-profitable-2030-financial-documents/)
 
-- 500 million weekly active users (April 2025) [source](https://taptwicedigital.com/stats/openai)
-- ~10 million ChatGPT Plus subscribers paying $20/month (as of Sept 2024) [source](https://www.pymnts.com/artificial-intelligence-2/2024/openai-reportedly-projects-5-billion-loss-this-year/)
-- 1 million+ organizations using OpenAI technology (December 2025) [source](https://sacra.com/c/openai/)
+**2025:**
+
+- Total spending: ~$22 billion
+- Revenue: ~$13 billion
+- Net loss: ~$9 billion ($1.69 spent per $1 of revenue)
+
+**Burn rate as % of revenue:**
+
+- 2026: 57%
+- 2027: 57%
+- 2028: ~75% ("three-quarters of that year's revenue")
+
+**Key projections:**
+
+- 2028: ~$74 billion in operating losses
+- Cumulative cash burn through 2029: $115 billion (per The Information)
+- Profitability: Cash flow positive by 2029 or 2030
+- 2030 revenue target: $200 billion
+
+**Note:** These are projections from documents shared before the latest computing deals (Microsoft $250B, etc.) were signed, so actual spending may be higher.
+
+### Revenue projections (per WSJ investor documents)
+
+OpenAI's internal targets: $100B ARR by end of 2028, $200B ARR by end of 2030. [source](https://fortune.com/2025/11/12/openai-cash-burn-rate-annual-losses-2028-profitable-2030-financial-documents/)
+
+Since OpenAI reports ARR (a single month × 12), these targets mean hitting $8.33B/month by Dec 2028 and $16.67B/month by Dec 2030.
+
+**Fitting a growth curve** (see `revenue_projection.py`):
+
+Starting from Dec 2025 at $1.6B/month with ~10%/month growth, we fit a decaying growth model: `r(t) = 10% × 0.87^t + 2.9%`. Growth rapidly decays (half-life ~5 months) from 10%/month to a steady ~3%/month (~41% annualized).
+
+| Year | Dec Monthly Rev | ARR    | MoM Growth (Dec) | YoY × |
+| ---- | --------------- | ------ | ---------------- | ----- |
+| 2025 | $1.6B           | $19.2B | 10.0%            | —     |
+| 2026 | $3.8B           | $45.0B | 4.7%             | 2.3×  |
+| 2027 | $5.8B           | $69.7B | 3.2%             | 1.6×  |
+| 2028 | $8.3B           | $100B  | 3.0%             | 1.4×  |
+| 2029 | $11.8B          | $142B  | 2.9%             | 1.4×  |
+| 2030 | $16.7B          | $200B  | 2.9%             | 1.4×  |
+
+The key insight: the hard part is 2026. They need to sustain high growth long enough for the monthly run rate to roughly double (from $1.6B to $3.8B). After that, ~3%/month compounding does the rest.
+
+### How realistic are these targets? (see `revenue_realism.py`)
+
+**Current state (Dec 2025):** ~900M WAU [source](https://backlinko.com/chatgpt-stats), ~35-45M paid subscribers [source](https://www.contentgrip.com/openai-chatgpt-subscription-strategy/), 5% conversion, ~$25/month blended consumer ARPU.
+
+**OpenAI's own 2030 user targets** (from The Information, Nov 2025): 2.6B WAU, 220M paid subscribers, 8.5% conversion [source](https://www.contentgrip.com/openai-chatgpt-subscription-strategy/).
+
+**What the revenue curve requires at each year-end:**
+
+| Year | Monthly Rev | WAU    | Paid Subs | Conversion | Consumer ARPU |
+| ---- | ----------- | ------ | --------- | ---------- | ------------- |
+| 2025 | $1.6B       | 900M   | 45M       | 5.0%       | $25/mo        |
+| 2026 | $3.8B       | 1,100M | 62M       | 5.6%       | $40/mo        |
+| 2028 | $8.3B       | 1,700M | 117M      | 6.9%       | $41/mo        |
+| 2030 | $16.7B      | 2,600M | 220M      | 8.5%       | $38/mo        |
+
+(Assumes consumer subscriptions decline from ~70% to ~50% of revenue as enterprise/API/ads grow.)
+
+**Reality checks:**
+
+1. **WAU growth (900M → 2.6B):** 24% CAGR. Requires reaching 47% of all internet users. Facebook took 13 years to hit 2B WAU. YouTube has ~2.5B monthly users. ChatGPT tripled WAU in 2025 (300M → 900M), but maintaining that pace gets harder as the base grows. Plausible but aggressive.
+
+2. **Subscriber growth (45M → 220M):** 37% CAGR, 4.9× in 5 years. Netflix took 25 years to reach 300M, Spotify 18 years to reach 260M. Disney+ hit 150M in 5 years but then stalled. This would be the fastest subscriber ramp in history at this scale.
+
+3. **Conversion rate (5% → 8.5%):** Ambitious but not unreasonable. Typical SaaS freemium converts 2-5%. If AI becomes essential for work, higher conversion is plausible. The new ChatGPT Go tier ($8/mo) could help by lowering the barrier.
+
+4. **ARPU ($25 → $38/mo):** Requires meaningful Pro ($200/mo) adoption or price increases. The current tier mix is mostly Plus ($20). Enterprise seats command higher ARPU but are counted separately.
+
+5. **Non-consumer revenue by 2030: $100B/year.** This is the hardest part. Even if consumer subs hit their targets, OpenAI needs the other half (~$100B/year) from enterprise contracts, API, ads, and new products. For context: Salesforce does $35B/year, AWS does $100B/year. OpenAI would need to build an AWS-scale enterprise business from scratch in 5 years.
+
+**Bottom line:** The consumer subscription targets are aggressive but not impossible — they require ChatGPT to become as ubiquitous as YouTube. The real question mark is whether OpenAI can build $100B/year in non-consumer revenue (enterprise, API, ads, agents). That's unprecedented for a company this young.
+
+**What $200B revenue requires:**
+
+Current state (Dec 2025): 800M weekly active users, 15M paid subscribers (2% conversion), $36/month implied ARPU (based on 1.6B in Dec 2025).
+
+10 million ChatGPT Plus subscribers paying $20/month (as of Sept 2024) [source](https://www.pymnts.com/artificial-intelligence-2/2024/openai-reportedly-projects-5-billion-loss-this-year/)
+
+ChatGPT is projected to be ~50% of 2030 revenue ($100B). The remaining $100B comes from API (~20%), enterprise contracts, and new products (agents, Sora, etc.).
+
+## Full financial picture (Beginning of 2026)
+
+PitchBook tracks that OpenAI "has raised $63.9B" — total funding. [source](https://pitchbook.com/profiles/company/149504-14)
+Tracxn tracks total funding raised at $57.9B.
+
+**Cash out (losses):**
+
+- 2023 losses: ~$2B (implied by $44B cumulative loss projection for 2023-2028) [source](https://the-decoder.com/openai-investors-face-high-risks-internal-forecasts-show/)
+- 2024 losses: ~$5B (WSJ investor documents from summer 2025)
+- 2025 losses: ~$14-20B (H1 loss of $6.9B per The Information [source](https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn); Q3 loss of ~$12.6B per Microsoft SEC filing [source](https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm) — but Q3 figure is disputed, see analysis above)
+
+**Naive calculation: $57.9B - $19B = ~$39B**
+
+However, "net loss" ≠ cash burn. Non-cash expenses (stock compensation, depreciation, consumed Azure credits) count toward accounting losses but don't reduce the bank balance. Stock comp alone was $2.5B in H1 2025, likely $5-10B cumulative over 2023-2025.
+
+**Adjusted estimate:** If ~$8B of the $19B in losses was non-cash, actual cash burn was ~$11B, leaving **~$47B** in cash.
+
+This is a rough estimate — we don't have precise data on cash vs non-cash expenses.
+
+### Runway analysis
+
+Leaked financial forecasts project OpenAI will burn $17B in cash in 2026, up from $9B in 2025. [source](https://eu.36kr.com/en/p/3624813808157699)
+
+The Information reported annual cash burn rising from $17B (2026) to $35B (2027), peaking at $47B in 2028. [source](https://wiss.com/openai-valuation/)
+
+At $64B cash and $17B/year burn, runway is ~3.75 years (mid-2029) without additional funding.
+
+However, financial expert Sebastian Mallaby predicts OpenAI could run out of money "over the next 18 months" (i.e., mid-2027), arguing that competitors like Google, Microsoft, and Meta can fund AI development from legacy business profits while OpenAI doesn't have that luxury. [source](https://futurism.com/artificial-intelligence/financial-expert-openai-running-out-of-money)
+
+Deutsche Bank expects OpenAI to accrue ~$143B in negative cumulative free cash flow between 2024 and 2029 before turning profitable. [source](https://www.emarketer.com/content/openai-forecast-143-billion-loss-raises-stakes-ai-monetization)
+
+### Infrastructure commitments coming due
+
+OpenAI is committed to pay ~$130B over 2026-2027. That's before the $1.4T in letters of intent to build data centers. [source](https://pivot-to-ai.com/2026/01/23/openai-faces-cash-crunch-in-2026-as-bills-come-due/)
+
+This dramatically changes the runway picture — if these commitments are binding, the $64B on hand won't last long.

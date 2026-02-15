@@ -16,6 +16,7 @@ const FEATURED_SHORT_URLS = new Set<string>([
   "climbing-ed-cla",
   "sports-gene",
   "mystery",
+  "agi-not-imminent",
 ]);
 
 const css = stylesheet({

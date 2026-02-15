@@ -4,7 +4,7 @@
         <title>dlants.me - tech</title>
         <link>https://dlants.me/tech.html</link>
         <description>Posts tagged tech</description>
-        <lastBuildDate>Mon, 02 Feb 2026 14:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 23:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>awesome</generator>
         <language>en</language>
@@ -15,6 +15,15 @@
         </image>
         <copyright>All rights reserved, 2023, Denis Lantsman</copyright>
         <atom:link href="https://dlants.me/tech/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why I don't think AGI is imminent]]></title>
+            <link>https://dlants.me/agi-not-imminent.html</link>
+            <guid>agi-not-imminent</guid>
+            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read the full post at dlants.me]]></description>
+            <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
+            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+        </item>
         <item>
             <title><![CDATA[self compassion and the disposable engineer]]></title>
             <link>https://dlants.me/self-compassion.html</link>
