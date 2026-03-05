@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dlants.me</id>
     <title>dlants.me</title>
-    <updated>2026-02-16T06:09:24.954Z</updated>
+    <updated>2026-03-05T01:01:14.670Z</updated>
     <generator>awesome</generator>
     <author>
         <name>Denis Lantsman</name>
@@ -20,6 +20,19 @@
     <category term="Training"/>
     <category term="Tech"/>
     <category term="Ed-Tech"/>
+    <entry>
+        <title type="html"><![CDATA[How does AI change Software Engineering?]]></title>
+        <id>ai-se</id>
+        <link href="https://dlants.me/ai-se.html"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I don't think AGI is imminent]]></title>
         <id>agi-not-imminent</id>
