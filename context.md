@@ -208,7 +208,25 @@ When helping edit blog posts, follow these principles:
 - **Cut rather than demote.** If a reference or analogy isn't earning its place as the lead, it probably won't work as supporting color either. Be willing to kill darlings entirely.
 - **Present feedback as a numbered menu.** Let the author accept or reject items individually rather than treating the review as a package deal.
 
+## Version Control
+
+This repo uses **Jujutsu (jj)** colocated with git for version control. The git repo remains the source of truth for pushing to remotes, but jj provides better loss-prevention for writing work.
+
+### Why jj
+
+- The working copy is always a commit — there's no "uncommitted changes" state, so work can't be lost the way it can with git.
+- Every operation is undoable via `jj undo` or `jj op restore`.
+- Clean history is easy: `jj squash` multiple working-copy snapshots into a single commit when ready.
+
+### Auto-snapshots
+
+A neovim autocommand runs `jj status` on every buffer write, which snapshots the working copy. This means every file save creates a recoverable checkpoint. To see or recover previous states:
+
+- `jj op log` — list all operations (each one is a snapshot)
+- `jj op show <op-id>` — see what changed in a specific operation
+- `jj op restore <op-id>` — restore the repo to that point
+- `jj op diff --op <op-id-before> --from @` — diff the working copy against a previous snapshot
+
 ## Agent Usage Preferences
 
 - When reviewing multiple sections of a blog post (or similar parallel review tasks), use `spawn_foreach` rather than individual `spawn_subagent` calls.
-
