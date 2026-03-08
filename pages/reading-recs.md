@@ -34,31 +34,33 @@ There's a story in here about Frenkel's admission being sabotaged by two examine
 
 # Blog Posts & Essays
 
-## [Lessons I Wish I Had Been Taught](http://giancarlorota.org/essays/lessons.html)
+## Lessons I Wish I Had Been Taught
 
-_Gian-Carlo Rota_
+_Gian-Carlo Rota · [giancarlorota.org](http://giancarlorota.org/essays/lessons.html)_
 
 Rota's observation that mathematicians succeed by deploying only a few tricks, paired with Feynman's method of always keeping a dozen of your favorite problems in mind. The takeaway: keep a bag of problems and a bag of tricks.
 
-## [Pain Is Not the Unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
+## Pain Is Not the Unit of Effort
+
+_alkjash · [lesswrong.com](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)_
 
 Quite reactionary, and probably written by a younger person, so I don't agree with everything here. But it hits on something profound and relatable, and I think back about this essay often.
 
-## [Cargo Cult Science](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+## Cargo Cult Science
 
-_Richard Feynman_
+_Richard Feynman · [calteches.library.caltech.edu](https://calteches.library.caltech.edu/51/2/CargoCult.htm)_
 
 Feynman's Caltech commencement address. "The first principle is that you must not fool yourself, and you are the easiest person to fool."
 
-## [Friction vs Velocity](https://lethain.com/friction-vs-velocity/)
+## Friction vs Velocity
 
-_Will Larson_
+_Will Larson · [lethain.com](https://lethain.com/friction-vs-velocity/)_
 
 It's in the title.
 
-## [Life-Complete Problems](https://drmaciver.substack.com/p/life-complete-problems)
+## Life-Complete Problems
 
-_David R. MacIver_
+_David R. MacIver · [drmaciver.substack.com](https://drmaciver.substack.com/p/life-complete-problems)_
 
 I find David's writing very insightful, and think about a lot of his essays. But this one in particular, the concept of life-complete problems, has stuck with me.
 
