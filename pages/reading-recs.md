@@ -18,7 +18,7 @@ Dr. Ramachandran is a neurologist and neuroscientist who uses Sherlock Holmes-es
 
 _Edward Slingerland_
 
-An exploration of spontaneity, skill and ways of being grounded in modern neuroscience and the history of eastern philosophy.
+An exploration of ways of being, spontaneity and skill, grounded in modern neuroscience and the history of eastern philosophy.
 
 ## How to Do Nothing
 
