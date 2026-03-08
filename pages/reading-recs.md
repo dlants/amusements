@@ -26,6 +26,42 @@ _Jenny Odell_
 
 An exploration of what attention can become when it's directed toward place, community, and the act of noticing.
 
+## Love and Math
+
+_Edward Frenkel_
+
+There's a story in here about Frenkel's admission being sabotaged by two examiners. These were two people who were clearly proficient in math, and recognized his skill, but chose to use their knowledge for harm. I think about this a lot when I hear "teach kids how to think, not what to think." Merely knowing how to think is not enough.
+
+# Blog Posts & Essays
+
+## [Lessons I Wish I Had Been Taught](http://giancarlorota.org/essays/lessons.html)
+
+_Gian-Carlo Rota_
+
+Rota's observation that mathematicians succeed by deploying only a few tricks, paired with Feynman's method of always keeping a dozen of your favorite problems in mind. The takeaway: keep a bag of problems and a bag of tricks.
+
+## [Pain Is Not the Unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
+
+Quite reactionary, and probably written by a younger person, so I don't agree with everything here. But it hits on something profound and relatable, and I think back about this essay often.
+
+## [Cargo Cult Science](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
+_Richard Feynman_
+
+Feynman's Caltech commencement address. "The first principle is that you must not fool yourself, and you are the easiest person to fool."
+
+## [Friction vs Velocity](https://lethain.com/friction-vs-velocity/)
+
+_Will Larson_
+
+It's in the title.
+
+## [Life-Complete Problems](https://drmaciver.substack.com/p/life-complete-problems)
+
+_David R. MacIver_
+
+I find David's writing very insightful, and think about a lot of his essays. But this one in particular, the concept of life-complete problems, has stuck with me.
+
 # Fiction
 
 ## The Silo Trilogy
