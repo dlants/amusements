@@ -4,7 +4,7 @@ shortUrl: reading-recs
 showInNav: true
 ---
 
-Here some writing that have left a lasting impression on me.
+Writing that has stuck in my mind.
 
 # Nonfiction
 
@@ -18,19 +18,75 @@ Dr. Ramachandran is a neurologist and neuroscientist who uses Sherlock Holmes-es
 
 _Edward Slingerland_
 
-An exploration of ways of being, spontaneity and skill, grounded in modern neuroscience and the history of eastern philosophy.
+An exploration of ways of being, spontaneity, and skill, grounded in modern neuroscience and the history of eastern philosophy.
+
+## How We Learn to Move
+
+_Rob Gray_
+
+An introduction to ecological dynamics, a framework for skilled movement as an emergent property of distributed, parallel processes interacting with the environment. Worth a read even if you're not into sport - you will see emergent organization everywhere.
 
 ## How to Do Nothing
 
 _Jenny Odell_
 
-An exploration of what attention can become when it's directed toward place, community, and the act of noticing.
+What attention can become when it's directed toward place, community, and the act of noticing.
+
+## Thinking, Fast and Slow
+
+_Daniel Kahneman_
+
+Kahneman won the Nobel Prize in Economics for his research on judgment and decision-making, identifying two distinct modes of human thought: one quick and heuristic-based, the other deliberate, expensive and slow. A book that encourages humility about one's own rationality.
 
 ## Love and Math
 
 _Edward Frenkel_
 
 There's a story in here about Frenkel's admission being sabotaged by two examiners. These were two people who were clearly proficient in math, and recognized his skill, but chose to use their knowledge for harm. I think about this a lot when I hear "teach kids how to think, not what to think." Merely knowing how to think is not enough.
+
+# Fiction
+
+## The Silo Trilogy
+
+_Hugh Howey_
+
+A society is weathering a global catastrophe in an underground bunker. A meditation on how to act on imperfect information, as technology makes the magnitude and immediacy of those actions more and more intense.
+
+## Solaris
+
+_Stanisław Lem_
+
+A vivid portrayal of a truly alien intelligence. The alien just exists, wholly independent and incomprehensible to the characters, the story and the reader. It is a distillation of the absurd.
+
+## Children of Time
+
+_Adrian Tchaikovsky_
+
+Intelligent species evolve from different starting points, highlighting the evolutionary foundations of human society and morality.
+
+## Neuromancer & the Sprawl Trilogy
+
+_William Gibson_
+
+My favorite science fiction book, and one of the few that I've re-read multiple times. Psychedelic, hallucinatory prose pulls you through a noir cyberpunk world. Simply cool.
+
+## Roadside Picnic
+
+_Arkady & Boris Strugatsky_
+
+Aliens have a pit stop on earth, leaving behind an incomprehensible and dangerous Zone. Stalkers are scavengers who gamble their lives to pick over the alien's trash. An exploration of human experience when faced with a perplexing and uncaring universe.
+
+## Riddley Walker
+
+_Russell Hoban_
+
+Set after a nuclear apocalypse, the novel is written in phonetic English that's gone through thousands of years of linguistic evolution. Pre-apocalyptic science and history have become mythology and lore.
+
+## The Earthsea Series
+
+_Ursula K. Le Guin_
+
+A YA series about adolescence and positive masculinity. The writing is solid and deliberate. "Manhood is patience. Mastery is nine times patience."
 
 # Blog Posts & Essays
 
@@ -44,13 +100,19 @@ Rota's observation that mathematicians succeed by deploying only a few tricks, p
 
 _alkjash · [lesswrong.com](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)_
 
-Quite reactionary, and probably written by a younger person, so I don't agree with everything here. But it hits on something profound and relatable, and I think back about this essay often.
+Quite reactionary, and probably written by a younger person, so I don't agree with everything here. But it hits on something emotionally resonant that really stuck in my mind.
 
 ## Cargo Cult Science
 
 _Richard Feynman · [calteches.library.caltech.edu](https://calteches.library.caltech.edu/51/2/CargoCult.htm)_
 
 Feynman's Caltech commencement address. "The first principle is that you must not fool yourself, and you are the easiest person to fool."
+
+## This Is Water
+
+_David Foster Wallace · [bulletin.kenyon.edu](https://bulletin-archive.kenyon.edu/x4280.html)_
+
+Wallace's 2005 Kenyon commencement address. The most obvious, important realities are the ones hardest to see. Pairs well with Jenny Odell's book above.
 
 ## Friction vs Velocity
 
@@ -64,34 +126,14 @@ _David R. MacIver · [drmaciver.substack.com](https://drmaciver.substack.com/p/l
 
 I find David's writing very insightful, and think about a lot of his essays. But this one in particular, the concept of life-complete problems, has stuck with me.
 
-# Fiction
+## How Complex Systems Fail
 
-## The Silo Trilogy
+_Richard I. Cook · [how.complexsystems.fail](https://how.complexsystems.fail/)_
 
-_Hugh Howey_
+Eighteen short theses on failure in complex systems. Cook was an anesthesiologist, software engineer, and researcher who studied failure across medicine, aviation, space operations, and software. He saw hospitals, cockpits and server rooms as complex systems and developed a general theory of resilience over this abstraction.
 
-A science fiction story about a human civilisation that's weathering a global catastrophe in an underground bunker. How does one act on imperfect information, especially when technology makes the consequences and immediacy of those actions more and more intense?
+## How Do Cars Do in Out-of-Sample Crash Testing?
 
-## Solaris
+_Dan Luu · [danluu.com](https://danluu.com/car-safety/)_
 
-_Stanisław Lem_
-
-A vivid portrayal of a truly alien intelligence.
-
-## Children of Time
-
-_Adrian Tchaikovsky_
-
-A civilization evolves from a different starting point, highlighting the evolutionary foundations of human society and morality.
-
-## Roadside Picnic
-
-_Arkady & Boris Strugatsky_
-
-Aliens have a pit stop on earth, leaving behind an incomprehensible and dangerous Zone. Stalkers are scavengers who gamble their lives to pick over the alien's trash. An exploration of human experience when faced with a perplexing and uncaring universe.
-
-## The Earthsea Series
-
-_Ursula K. Le Guin_
-
-A YA series about patience, adulthood and positive masculinity.
+A Goodhart's Law case study. When crash test criteria change, most manufacturers' scores drop because they were optimizing for the test, not for safety. Volvo is the exception that proves the rule.
