@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>With AI, you barely need a frontend framework</title>
+  <style>button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-block}progress,sub,sup{vertical-align:baseline}html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0} menu,article,aside,details,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative}sub{bottom:-.25em}sup{top:-.5em}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{}button,select{text-transform:none}[type=submit], [type=reset],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:ButtonText dotted 1px}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}[hidden],template{display:none}.tableOfContents_f1uwvcyt{padding-bottom:10px;padding-top:10px}.tableOfContents_f1uwvcyt ul{list-style:none;margin:0;padding-left:0}.tableOfContents_f1uwvcyt li{padding-bottom:4px;padding-top:4px}.tableOfContents_f1uwvcyt a{color:hsl(0, 0%, 0%);text-decoration:none}.tableOfContents_f1uwvcyt a:hover{text-decoration:underline}.heading_f12eg0h7 a{color:inherit;text-decoration:none}.heading_f12eg0h7 a:hover{text-decoration:underline}.code_f1w1fzvs{background-color:hsl(0, 0%, 90%);border-radius:3px;font-family:'Roboto Mono', monospace;font-size:0.9em;padding:2px}.codeBlock_fuc7d7h{background-color:hsl(0, 0%, 90%);border-radius:4px;font-family:'Roboto Mono', monospace;font-size:0.85em;overflow-x:auto;padding:12px;white-space:pre-wrap;word-break:break-word}.blockquote_ffkcpe7{border-left:3px solid hsl(0, 0%, 60%);color:hsl(0, 0%, 60%);margin-left:0;padding-left:16px}.table_f1nyxqnd{border-collapse:collapse;margin-bottom:16px;margin-top:16px;width:100%}.tableCell_f1yllkyw{border:1px solid hsl(0, 0%, 90%);padding:8px}.image_f6w00t0{max-width:100%}.embedContainer_fa48ejj{height:0;margin-bottom:16px;margin-top:16px;padding-bottom:56.25%;position:relative;width:100%}.embedContainer_fa48ejj iframe{height:100%;left:0;position:absolute;top:0;width:100%}.captionedImage_f1x6g9qq{align-items:center;display:flex;flex-direction:column;margin-bottom:16px;margin-top:16px}.caption_fqua3ls{color:hsl(0, 0%, 60%);font-size:0.9em;font-style:italic;margin-top:8px;max-width:90%;padding-left:16px;text-align:left}.header_f15ej8wx{-ms-flex-direction:column;-ms-flex-negative:0;-webkit-flex-direction:column;-webkit-flex-shrink:0;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:column;flex-shrink:0}.topHeaderRow_fmhimpa{background:hsl(0, 0%, 90%)}.headerRow_f1jl748l{-ms-flex-direction:row;-ms-flex-negative:0;-webkit-flex-direction:row;-webkit-flex-shrink:0;align-items:flex-end;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:row;flex-shrink:0;flex-wrap:nowrap;max-width:100%;overflow:hidden;padding-left:15px;padding-right:15px}.headerRow_f1jl748l>*{margin-right:10px !important}.headerRow_f1jl748l>*:last-child{margin-right:0px !important}.headerItem_fu8qgk4{-ms-flex-negative:0;-webkit-flex-shrink:0;flex-basis:auto;flex-shrink:0}.headerItem_fu8qgk4 a{color:hsl(0, 0%, 0%);text-decoration:none;text-decoration-color:hsl(0, 0%, 90%)}.headerItem_fu8qgk4 a:hover{background-color:hsl(0, 0%, 90%)}.homeLink_f1xjhvru{-ms-flex-direction:row;-ms-flex-negative:0;-webkit-flex-direction:row;-webkit-flex-shrink:0;align-items:center;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:row;flex-shrink:0;text-decoration:none}.homeLink_f1xjhvru>*{margin-right:10px !important}.homeLink_f1xjhvru>*:last-child{margin-right:0px !important}.homeLink_f1xjhvru img{max-height:30px}.divider_fiw0lep,.contentPadding_fiw0lep,.postTitle_fiw0lep{-ms-flex:1;-webkit-flex:1;flex:1}.rightSection_fqrlanr{-ms-flex-direction:row;-ms-flex-negative:0;-webkit-flex-direction:row;-webkit-flex-shrink:0;align-items:center;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:row;flex-shrink:0}.rightSection_fqrlanr>*{margin-right:10px !important}.rightSection_fqrlanr>*:last-child{margin-right:0px !important}.page_fghohlb{-ms-flex-direction:column;-webkit-flex-direction:column;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-direction:column}.contentContainer_f16f73v0{-ms-flex:1;-ms-flex-direction:row;-webkit-flex:1;-webkit-flex-direction:row;display:-ms-flexbox;display:-webkit-flex;display:flex;flex:1;flex-direction:row}.content_f14hn0h0{-ms-flex-negative:0;-webkit-flex-shrink:0;flex-basis:auto;flex-shrink:0}@media (min-width: 741px){.content_f14hn0h0{max-width:720px}}@media (max-width: 740px){.content_f14hn0h0{padding-left:10px;padding-right:10px;width:100%}}.footer_fg9dplh{-ms-flex-negative:0;-webkit-flex-shrink:0;flex-basis:auto;flex-shrink:0;height:300px}html{font-size:16px;line-height:1.5}html a{color:hsl(0, 0%, 40%);text-decoration-color:hsl(0, 0%, 40%)}html ol,html ol ol ol ol{list-style-type:decimal}html ol ol,html ol ol ol ol ol{list-style-type:lower-alpha}html ol ol ol,html ol ol ol ol ol ol{list-style-type:lower-roman}html, body{height:100%;margin:0;padding:0;width:100%}html{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}#root{height:100%;width:100%}.postList_f1vpqs3t{-ms-flex-direction:column;-webkit-flex-direction:column;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-direction:column}.postList_f1vpqs3t>*{margin-bottom:10px !important}.postList_f1vpqs3t>*:last-child{margin-bottom:0px !important}.postRow_fay7vi3{-ms-flex-direction:row;-ms-flex-negative:0;-webkit-flex-direction:row;-webkit-flex-shrink:0;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:row;flex-shrink:0}.postRow_fay7vi3>*{margin-right:10px !important}.postRow_fay7vi3>*:last-child{margin-right:0px !important}.postDate_f1hnfeg5{-ms-flex-negative:0;-webkit-flex-shrink:0;color:hsl(0, 0%, 60%);flex-basis:auto;flex-shrink:0;min-width:100px}.postTitle_fxdkkk0{-ms-flex-negative:0;-webkit-flex-shrink:0;flex-basis:auto;flex-shrink:0}.tag_fmp4oti{-ms-flex-negative:0;-webkit-flex-shrink:0;background-color:hsl(0, 0%, 90%);border-radius:3px;flex-basis:auto;flex-shrink:0;font-size:0.85em;padding:2px 6px}.pageTitle_f4350h6{font-size:2em;margin-bottom:10px}.subtitle_f1smo6w8{margin-bottom:30px}.section_f1lnkzdl{-ms-flex-direction:column;-webkit-flex-direction:column;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-direction:column;margin-bottom:30px}.sectionTitle_fnb89nq{font-size:1.5em;margin-bottom:5px}.legend_fattp86{color:hsl(0, 0%, 60%);font-size:0.9em;margin-bottom:15px}.postRow_f1fes45i{-ms-flex-direction:row;-ms-flex-negative:0;-webkit-flex-direction:row;-webkit-flex-shrink:0;align-items:flex-start;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:row;flex-shrink:0}.postRow_f1fes45i>*{margin-right:10px !important}.postRow_f1fes45i>*:last-child{margin-right:0px !important}.starIndicator_fdfkslr{-ms-flex-negative:0;-webkit-flex-shrink:0;flex-basis:auto;flex-shrink:0;text-align:center;width:16px}.postDate_f6dpeik{-ms-flex-negative:0;-webkit-flex-shrink:0;color:hsl(0, 0%, 60%);flex-basis:auto;flex-shrink:0}.pageTitle_faq0mi2{font-size:1.4em;font-weight:bold;margin-bottom:20px}</style>
+  <style>
+    html { font-family: 'Roboto', sans-serif; }
+  </style>
+  <link rel="icon" href="./black-rectangle.svg">
+  <meta name="viewport" content="width=device-width">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono" rel="stylesheet">
+  <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+</head>
+<body>
+  <a rel="me" style="display: none" href="https://mastodon.dlants.me/@dlants">Mastodon</a>
+  <div id="root">
+    <div class="page_fghohlb"><div class="header_f15ej8wx"><div class="headerRow_f1jl748l topHeaderRow_fmhimpa"><a class="homeLink_f1xjhvru" href="index.html"><div><?xml version="1.0" encoding="utf-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" id="emoji" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="9" height="16" fill="rgb(0, 0, 0)"/>
+</svg>
+</div><span>dlants.me</span></a><div class="divider_fiw0lep"></div><div class="rightSection_fqrlanr"><div class="headerItem_fu8qgk4"><a href="tech.html">tech</a></div><div class="headerItem_fu8qgk4"><a href="climbing.html">climbing</a></div><div class="headerItem_fu8qgk4"><a href="education.html">education</a></div><div class="headerItem_fu8qgk4"><a href="etc.html">etc</a></div><div class="headerItem_fu8qgk4"><a href="about.html">about me + contact</a></div><div class="headerItem_fu8qgk4"><a href="reading-recs.html">reading recs</a></div><div class="headerItem_fu8qgk4 subscribe_f45h">| <a href="rss">rss</a> <a href="atom">atom</a> <a href="buttondown.html">newsletter</a></div></div></div></div><div class="contentContainer_f16f73v0"><div class="contentPadding_fiw0lep"></div><div class="content_f14hn0h0"><h1>With AI, you barely need a frontend framework</h1><div style="color:#666;font-size:0.9em;margin-bottom:1em">April 9, 2026</div><div class="tableOfContents_f1uwvcyt"><ul><li style="padding-left:0px"><a href="#a-pattern-not-a-framework">a pattern, not a framework</a></li><li style="padding-left:20px"><a href="#templates">Templates</a></li><li style="padding-left:20px"><a href="#bindings">Bindings</a></li><li style="padding-left:20px"><a href="#composition-child-views">Composition: child views</a></li><li style="padding-left:20px"><a href="#conditional-children">Conditional children</a></li><li style="padding-left:20px"><a href="#lists">Lists</a></li><li style="padding-left:20px"><a href="#unique-data-refs">Unique data-refs</a></li><li style="padding-left:20px"><a href="#styles">Styles</a></li><li style="padding-left:20px"><a href="#putting-it-all-together">Putting it all together</a></li><li style="padding-left:0px"><a href="#why-this-works-now">Why this works now</a></li><li style="padding-left:0px"><a href="#appendix-problems-with-react">Appendix: Problems with React</a></li><li style="padding-left:20px"><a href="#react-hooks">React hooks</a></li><li style="padding-left:20px"><a href="#react-async-effects-fiber-interruptible-concurrent">React async effects, fiber, interruptible / concurrent rendering</a></li><li style="padding-left:20px"><a href="#performance">Performance</a></li></ul></div><p>Oh no! Yet another article about frontend frameworks! Sure, roll your eyes all you want but <em>you</em> clicked on this, so here we are.</p><p>The issues with React are well documented, and I won&#x27;t lead with them here. However, React is still the framework of choice for many teams. If you still need convincing that you might want to look for something different, see the Appendix. Many frameworks require tools like JSX or are their own languages like Svelte, adding custom tooling which may not be compatible with your code analysis and deploy tools, or your IDE. And in either case, many introduce new concepts, abstractions and hidden transformations.</p><p>When I was learning about Pratt parsers <a href="desmos-pratt.html">Desmos blog post about Pratt Parsers</a>, I was really struck by the fact that there are no Pratt parsing libraries. The Pratt parser is really just a pattern. It shows you how to decompose the problem and organize your solution, so that your code remains comprehensible even as the complexity of the language grows.</p><p>Inspired by this, I decided to try and apply this to my frontend code for my latest project. Could I rely on just typescript and the DOM API, and come up with an organizational pattern that would allow me to build complex frontends? Maybe this would require more redundant boilerplate, but if that boilerplate is predictable, my AI coding assistant can handle reading, summarizing and writing it for me.</p><h1 id="a-pattern-not-a-framework" class="heading_f12eg0h7"><a href="#a-pattern-not-a-framework">a pattern, not a framework</a></h1><p>Let&#x27;s build it up one piece at a time.</p><h2 id="templates" class="heading_f12eg0h7"><a href="#templates">Templates</a></h2><p>The simplest starting point: render state to HTML using a template string.</p><pre class="codeBlock_fuc7d7h"><code>class CounterView {
+  container: HTMLElement;
+
+  constructor(
+    container: HTMLElement,
+    dispatch: (msg: Msg) =&gt; void,
+    initialState: State,
+  ) {
+    this.container = container;
+    container.innerHTML = sanitize`
+      &lt;div&gt;
+        &lt;button data-ref=&quot;dec&quot;&gt;−&lt;/button&gt;
+        &lt;span data-ref=&quot;count&quot;&gt;${initialState.count}&lt;/span&gt;
+        &lt;button data-ref=&quot;inc&quot;&gt;+&lt;/button&gt;
+      &lt;/div&gt;
+    `;
+
+    container
+      .querySelector(&#x27;[data-ref=&quot;dec&quot;]&#x27;)!
+      .addEventListener(&quot;click&quot;, () =&gt; dispatch({ type: &quot;DECREMENT&quot; }));
+    container
+      .querySelector(&#x27;[data-ref=&quot;inc&quot;]&#x27;)!
+      .addEventListener(&quot;click&quot;, () =&gt; dispatch({ type: &quot;INCREMENT&quot; }));
+  }
+}</code></pre><p><code class="code_f1w1fzvs">sanitize</code> is a tagged template that HTML-escapes all interpolated values for XSS safety. No JSX transform, no build plugin. You lose syntax checking for JSX... but your AI can write correct html, so it&#x27;s probably fine.</p><h2 id="bindings" class="heading_f12eg0h7"><a href="#bindings">Bindings</a></h2><p>The template renders once. To update the DOM when state changes, we introduce a sync function and bindings:</p><pre class="codeBlock_fuc7d7h"><code>class CounterView {
+  container: HTMLElement;
+  private b: Binder&lt;State&gt;;
+
+  constructor(
+    container: HTMLElement,
+    dispatch: (msg: Msg) =&gt; void,
+    initialState: State,
+  ) {
+    this.container = container;
+    container.innerHTML = sanitize`
+      &lt;div&gt;
+        &lt;button data-ref=&quot;dec&quot;&gt;−&lt;/button&gt;
+        &lt;span data-ref=&quot;count&quot;&gt;0&lt;/span&gt;
+        &lt;button data-ref=&quot;inc&quot;&gt;+&lt;/button&gt;
+      &lt;/div&gt;
+    `;
+
+    this.b = new Binder(container, initialState);
+
+    // ...
+
+    this.b.bindText(&quot;count&quot;, (s) =&gt; String(s.count));
+  }
+
+  sync(state: State): void {
+    this.b.sync(state);
+  }
+
+  destroy(): void {
+    this.b.cleanup();
+    this.container.innerHTML = &quot;&quot;;
+  }
+}</code></pre><p>The <code class="code_f1w1fzvs">Binder</code> holds a list of bindings. Each binding is a function that accepts state and performs a DOM mutation. <code class="code_f1w1fzvs">bindText</code> finds the element with <code class="code_f1w1fzvs">data-ref=&quot;count&quot;</code> and sets its <code class="code_f1w1fzvs">textContent</code> to the result of the function on every sync. There are similar helpers for other properties: <code class="code_f1w1fzvs">bindAttr</code>, <code class="code_f1w1fzvs">bindClass</code>, <code class="code_f1w1fzvs">bindVisible</code>, <code class="code_f1w1fzvs">bindStyle</code>, <code class="code_f1w1fzvs">bindDisabled</code>.</p><p>Calling <code class="code_f1w1fzvs">sync(state)</code> runs every binding with the new state. Updates are direct and synchronous. If you need to measure an element after a state change, you can do it on the next line.</p><p>This gives us a <code class="code_f1w1fzvs">View</code> interface that any view class implements:</p><pre class="codeBlock_fuc7d7h"><code>interface View&lt;State, Message&gt; {
+  container: HTMLElement;
+  sync(state: State): void;
+  destroy(): void;
+}</code></pre><p>The constructor creates the HTML and sets up bindings. <code class="code_f1w1fzvs">sync</code> propagates new state.</p><p>At the top of the application, you wire it together (this is basically Flux / Elm):</p><pre class="codeBlock_fuc7d7h"><code>function mount(container: HTMLElement) {
+  const state = initialState();
+
+  function dispatch(msg: Msg): void {
+    update(state, msg, dispatch);
+    view.sync(state);
+  }
+
+  const view = new CounterView(container, dispatch, state);
+}</code></pre><p>The cycle is: DOM event → <code class="code_f1w1fzvs">dispatch</code> → <code class="code_f1w1fzvs">update</code> mutates state → <code class="code_f1w1fzvs">view.sync</code> syncs DOM with the new state. The whole thing is synchronous. You can put a breakpoint in <code class="code_f1w1fzvs">update</code> and see the full picture in a single call stack.</p><h2 id="composition-child-views" class="heading_f12eg0h7"><a href="#composition-child-views">Composition: child views</a></h2><p>What if we want to nest views, with one view being the parent of another? A parent reserves a slot in its DOM, and uses <code class="code_f1w1fzvs">bindChild</code> to mount a child there:</p><pre class="codeBlock_fuc7d7h"><code>const navRef = &quot;nav&quot;;
+container.innerHTML = sanitize`
+  &lt;div data-ref=&quot;${navRef}&quot;&gt;&lt;/div&gt;
+  &lt;div&gt;other content...&lt;/div&gt;
+`;
+
+this.b.bindChild(navRef, NavView, (s) =&gt;
+  {
+    loggedIn: s.auth.status === &quot;logged-in&quot;,
+    displayName: s.displayName,
+  },
+  // child&#x27;s dispatch function
+  // childMsg is wrapped in parent&#x27;s msg type and dispatched to parent
+  (childMsg) =&gt; dispatch({ type: &quot;NAV_MSG&quot;, msg: childMsg }),
+);</code></pre><p>This mounts <code class="code_f1w1fzvs">NavView</code> immediately with the initial state. The child view is synced on <code class="code_f1w1fzvs">this.b.sync(nextState)</code> and destroyed on <code class="code_f1w1fzvs">this.b.cleanup()</code></p><h2 id="conditional-children" class="heading_f12eg0h7"><a href="#conditional-children">Conditional children</a></h2><p>Often we want to conditionally mount/unmount a child. <code class="code_f1w1fzvs">bindChild</code> always mounts a single view class, but <code class="code_f1w1fzvs">bindSlot</code> generalizes this: the binding function returns a <code class="code_f1w1fzvs">SlotContent</code> descriptor (via <code class="code_f1w1fzvs">show()</code>), or <code class="code_f1w1fzvs">undefined</code> to clear the slot:</p><pre class="codeBlock_fuc7d7h"><code>this.b.bindSlot(detailRef, (s) =&gt; {
+  if (!s.selectedId) return undefined;
+  return show(DetailView, { id: s.selectedId }, () =&gt; {});
+});</code></pre><p><code class="code_f1w1fzvs">SlotContent</code> is essentially a managed effect. It&#x27;s just a record containing the view constructor and state that should show up in the slot.</p><p>When <code class="code_f1w1fzvs">selectedId</code> is null, the slot is empty. When it has a value, <code class="code_f1w1fzvs">DetailView</code> is mounted (or synced if it&#x27;s already there). Notice that TypeScript&#x27;s type narrowing works naturally through the early return: by the time we call <code class="code_f1w1fzvs">show</code>, <code class="code_f1w1fzvs">s.selectedId</code> is known to be non-null.</p><p>This extends naturally to switching between multiple views:</p><pre class="codeBlock_fuc7d7h"><code>this.b.bindSlot(contentRef, (s) =&gt; {
+  switch (s.page.status) {
+    case &quot;loading&quot;:
+      return show(SpinnerView, {}, () =&gt; {});
+    case &quot;loaded&quot;:
+      // type narrowing works here!
+      return show(DetailView, s.page.data, () =&gt; {});
+    case &quot;error&quot;:
+      return show(ErrorView, { message: s.page.error }, () =&gt; {});
+  }
+});</code></pre><p>On each sync, the slot compares what it has mounted against what the function returns:</p><ul><li><p>Same view class? Sync the existing instance with new state.</p></li><li><p>Different class? Destroy the old view, mount the new one.</p></li><li><p><code class="code_f1w1fzvs">undefined</code>? Destroy and clear the slot.</p></li></ul><p>In fact, <code class="code_f1w1fzvs">bindSlot</code> subsumes <code class="code_f1w1fzvs">bindChild</code>: if the function always returns the same view class, the slot just syncs it every time, which is exactly what <code class="code_f1w1fzvs">bindChild</code> does. So we don&#x27;t actually need <code class="code_f1w1fzvs">bindChild</code> as a separate method.</p><h2 id="lists" class="heading_f12eg0h7"><a href="#lists">Lists</a></h2><p><code class="code_f1w1fzvs">bindSlot</code> handles a single child. <code class="code_f1w1fzvs">bindList</code> extends the same principle to arrays. Since multiple children may use the same view class, we can no longer rely on constructor identity to track which is which. Instead, we use keys:</p><pre class="codeBlock_fuc7d7h"><code>this.b.bindList(listRef, &quot;li&quot;, (s) =&gt;
+  s.items.map((item) =&gt;
+    showKeyed(
+      item.id,
+      ItemView,
+      {
+        item,
+        isSelected: item.id === s.selectedId,
+      },
+      () =&gt; {},
+    ),
+  ),
+);</code></pre><p>On each sync, <code class="code_f1w1fzvs">bindList</code> matches items by key: new keys mount, existing keys sync, removed keys destroy. DOM order is updated to match array order (using <code class="code_f1w1fzvs">appendChild</code>, which moves existing nodes). The algorithm is simple enough to read in the source.</p><h2 id="unique-data-refs" class="heading_f12eg0h7"><a href="#unique-data-refs">Unique data-refs</a></h2><p>There&#x27;s a subtle problem with composition. When a parent calls <code class="code_f1w1fzvs">this.b.ref(&quot;count&quot;)</code>, it queries <code class="code_f1w1fzvs">container.querySelectorAll(&#x27;[data-ref=&quot;count&quot;]&#x27;)</code>. But if a child view also has an element with <code class="code_f1w1fzvs">data-ref=&quot;count&quot;</code>, the parent might accidentally select inside the child.</p><p>The solution: <code class="code_f1w1fzvs">ref()</code> generates unique names, and returns a branded <code class="code_f1w1fzvs">Ref</code> type:</p><pre class="codeBlock_fuc7d7h"><code>const countRef = ref(&quot;count&quot;); // returns something like &quot;count_0&quot;
+const incRef = ref(&quot;inc&quot;); // &quot;inc_1&quot;</code></pre><p>The binding methods (<code class="code_f1w1fzvs">bindText</code>, <code class="code_f1w1fzvs">bindSlot</code>, etc.) require a <code class="code_f1w1fzvs">Ref</code>, not a plain string. This forces every data-ref through <code class="code_f1w1fzvs">ref()</code>, guaranteeing uniqueness across all views on the page.</p><h2 id="styles" class="heading_f12eg0h7"><a href="#styles">Styles</a></h2><p>We could just use plain css, but css-in-js has a few advantages - unique class names prevent cross-talk. Attaching the class to a variable lets our IDE find references and makes sure we don&#x27;t typo.</p><pre class="codeBlock_fuc7d7h"><code>const headerClass = cls(&quot;header&quot;);
+
+mountStyle(`
+.${headerClass} {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+`);
+
+// then in a view&#x27;s constructor:
+container.innerHTML = sanitize`
+  &lt;div class=&quot;${headerClass}&quot;&gt;...&lt;/div&gt;
+`;</code></pre><p><code class="code_f1w1fzvs">cls()</code> generates a unique class name, <code class="code_f1w1fzvs">mountStyle()</code> injects a <code class="code_f1w1fzvs">&lt;style&gt;</code> tag. Plain CSS, no build step, no special syntax. If you want mixins you can just use template interpolation, or transform the string however you like.</p><h2 id="putting-it-all-together" class="heading_f12eg0h7"><a href="#putting-it-all-together">Putting it all together</a></h2><p>The whole pattern is described in a 300 line markdown file, with a 300 line binding library/helper TypeScript file. You can read both here: <a href="https://github.com/dlants/vamp">github.com/dlants/vamp</a>. Copy/paste the library into your project, add the markdown file to your agent&#x27;s context window, and you&#x27;re ready to go. You can see a more thorough example of a project that uses vamp <a href="https://github.com/dlants/tether/blob/main/packages/frontend/main.ts">here</a> (it is a WIP, btw). Here&#x27;s an abstract <a href="https://github.com/dlants/tether/blob/main/packages/frontend/views/modal.ts">modal view</a>. Here&#x27;s the <a href="https://github.com/dlants/tether/blob/main/packages/frontend/router.ts">router</a>.</p><h1 id="why-this-works-now" class="heading_f12eg0h7"><a href="#why-this-works-now">Why this works now</a></h1><p>The traditional argument against approaches like Vamp is that they&#x27;re too verbose. It is tedious to write out explicit selectors and bindings for every element, wire up event listeners, or compose views through constructor calls.</p><p>That argument made sense when humans were writing every line. It doesn&#x27;t hold up when an AI agent is writing (or modifying) the code.</p><p>What matters for AI isn&#x27;t conciseness, it&#x27;s explicitness, locality and predictability.</p><p>Vamp is great on all three counts. There is no action at a distance through proxies or other magic. The pattern is explicit and repetitive, which means the AI can pattern-match reliably and repeat the pattern to build new views. There&#x27;s no hidden machinery (fiber scheduler, hook linked lists, reconciliation heuristics) to get wrong. Every state transition is synchronous and visible in the <code class="code_f1w1fzvs">update</code> function. Every DOM update is a direct binding.</p><p>This is your lifecycle:</p><pre class="codeBlock_fuc7d7h"><code>class MyView {
+  constructor (...) {
+    // before mount
+    this.content.innerHTML = `...`
+    // after mount but before children mount
+    this.b.bindSlot(...
+    // after children mount
+  }
+
+  sync(...) {
+    // before update
+    this.b.sync(...)
+    // after update
+  }
+
+  destroy(...) {
+    // before destroy
+    this.content.innerHTML = &#x27;&#x27;
+    this.b.cleanup();
+    // after destroy
+  }
+}</code></pre><p>The binding call stack travels through all the <code class="code_f1w1fzvs">bindSlot</code> functions explicitly, so when the sync function throws an error, the stack trace has your full actual views in it, not opaque / abstract fiber code.</p><p>It&#x27;s performant and malleable. Want to optimize a particular path? Need an escape hatch to do something funky? The DOM is right there! Want to go with full-elm-style pure update functions and managed effects? Be my guest.</p><p>So go. Be free. You never need to touch another framework again. (OK yes technically there is a 300 line ts file and so you could say this is still a framework, but it&#x27;s <em>barely</em> a framework).</p><h1 id="appendix-problems-with-react" class="heading_f12eg0h7"><a href="#appendix-problems-with-react">Appendix: Problems with React</a></h1><p>See <a href="https://react.dev/reference/rules/react-calls-components-and-hooks#never-call-component-functions-directly">this</a> for more details.</p><p>On first glance, React has a simple conceptual model, especially the modern version which encourages the use of functional components.</p><pre class="codeBlock_fuc7d7h"><code>function view(props: Props): JSX;</code></pre><p>This view function is re-evaluated on every update. The resulting virtual dom is then diffed against the virtual dom representing what was previously rendered. This results in a set of updates that are then applied to the DOM.</p><p>The problem arises with the fact that we often want to hang on to DOM between renders. For example:</p><pre class="codeBlock_fuc7d7h"><code>view(props) { // oversimplified example
+  if (props.a) {
+    return &lt;input /&gt;
+  } else {
+    return &lt;div /&gt;
+  }
+}</code></pre><p>If an update happens while interacting with this input, you can often end up in a situation where the input loses the typed text, or loses focus. (see <a href="https://stackoverflow.com/search?q=react%20focus%20typing&amp;s=650e5920-cd52-4696-aa54-11799ff32afb">link</a> for many, many examples of folks running into this sort of issue)</p><p>This is because react creates a brand new <code class="code_f1w1fzvs">&lt;input&gt;</code> VDOM whenever the view updates. It then needs to decide if you intend to keep the same input DOM, or create a new one, and there are many things that can cause it to replace the existing element with a new one.</p><p>During diffing (what React often refers to as reconciliation), React really wants to avoid traversing sub-trees to see if a given node is the same or different. Because of this, it relies on component identity and keys to short-circuit this process. If you don’t use these correctly, React will re-mount the element on every update. This can cause problems with losing input content and focus, and can also cause performance problems.</p><p>So one strategy here would be to provide a key to the input:</p><pre class="codeBlock_fuc7d7h"><code>...
+return &lt;input key=&quot;my-input&quot; /&gt;</code></pre><p>However, this doesn’t always work since a decision to remount can happen anywhere upstream of the keyed component. Another example:</p><pre class="codeBlock_fuc7d7h"><code>view(props) {
+  const helper = () =&gt; &lt;input key=&quot;my-input&quot;/&gt; // oversimplified example
+  return &lt;div&gt;{props.a ? helper() : &lt;div/&gt;}&lt;/div&gt;
+}</code></pre><p>This is a very natural thing to write, but breaks component identity during reconciliation. Instead, we should write:</p><pre class="codeBlock_fuc7d7h"><code>function Helper() {
+  return &lt;input key=&quot;my-key&quot;/&gt;
+}
+
+function View(props) {
+  if (props.a) {
+    return &lt;Helper /&gt;
+  } else {
+    return &lt;div /&gt;
+  }
+}</code></pre><p>This has two important changes. First, we are invoking Helper via JSX. This converts it into a React.createElement call. This gives React the opportunity to intercept this call and get a handle on the Helper function, identifying it as an intermediate component, and giving it the opportunity to trigger an update rather than re-rendering the component. Second, we pulled the helper function definition out of the view function. When helper is defined inside of view, a brand-new helper function is created every time the view updates. Because of that, even if we passed the helper through <code class="code_f1w1fzvs">createElement</code>, it would still consider it to be a new component (since comparing by reference would fail).</p><h2 id="react-hooks" class="heading_f12eg0h7"><a href="#react-hooks">React hooks</a></h2><p>In essence, when rendering a component, React uses a linked list to keep track of hooks. The position of the hook in the list is the only thing that React can use to build correspondence between hooks from one update to the next. Because of this, the hook list must be deterministic - the hooks must always appear in the same order, and the list must always be of the same length. See <a href="https://react.dev/reference/rules/rules-of-hooks">this</a> for more details on “rules of hooks”.</p><p>Another common problem with hooks is the dependency arrays. It’s really easy to get into situations where one effect updates another, updates another. It becomes difficult to reason about what the order of things is, and also possible to create infinite chains of hooks. Generally we shouldn’t need complex dependency chains like this and should default to using a dispatch / reducer pattern as with other more complex views, but these things tend to accumulate over time.</p><h2 id="react-async-effects-fiber-interruptible-concurrent" class="heading_f12eg0h7"><a href="#react-async-effects-fiber-interruptible-concurrent">React async effects, fiber, interruptible / concurrent rendering</a></h2><p>For more details on tearing, see <a href="https://github.com/reactwg/react-18/discussions/69">link</a>.</p><p>When React updates it accumulates all rendering effects and then applies them asynchronously (in a process called “batching” and “flushing”).</p><p>React’s performance optimizations add some complexity around the update cycle. One state mutation doesn’t necessarily correspond to a single re-render or lifecycle event. The developer also needs to keep in mind that the DOM will update in a future async frame. There are tools for doing this (useLayoutEffect, flushSync), but they are much more complicated to understand and debug.</p><p>After React 16, the concept of fiber was also introduced. In essence this breaks apart the re-rendering task within the react tree into independent pieces called fibers. This allows re-rendering to be interrupted, and to be broken up into smaller pieces which prevents the UI from locking. While this is a useful performance improvement (from the point of view of working around React’s otherwise slow rendering performance), it does add additional complexity. Since rendering can now be done asynchronously, and applied in parts, it greatly complicates things like DOM measurement, focus management, tearing and animation timing.</p><h2 id="performance" class="heading_f12eg0h7"><a href="#performance">Performance</a></h2><p>React&#x27;s VDOM renders and diffing operations are notoriously costly. The solution that many teams reach for is tuning shouldUpdate calls, or pulling in libraries like immer to provide immutable state, so the framework can short-circuit updates based on object reference equality. Immer adds a whole new can of worms - indirection and leaky abstractions inherent in proxies, type wrangling between draft &amp; non-draft state, etc...</p><div style="margin-top:3em;padding-top:1em;border-top:1px solid #ddd;display:flex;justify-content:space-between;font-size:0.9em"><div style="flex:1"><div><div style="color:#666;margin-bottom:0.25em">← Previous</div><a href="ai-se.html">How does AI change Software Engineering?</a></div></div><div style="flex:1;text-align:right"></div></div></div><div class="contentPadding_fiw0lep"></div></div><div class="footer_fg9dplh"></div></div>
+  </div>
+</body>
+</html>

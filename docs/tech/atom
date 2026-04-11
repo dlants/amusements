@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dlants.me/tech</id>
     <title>dlants.me - tech</title>
-    <updated>2026-03-08T20:15:12.386Z</updated>
+    <updated>2026-04-11T05:39:44.484Z</updated>
     <generator>awesome</generator>
     <author>
         <name>Denis Lantsman</name>
@@ -14,6 +14,19 @@
     <subtitle>Posts tagged tech</subtitle>
     <logo>https://dlants.me/black-rectangle.svg</logo>
     <rights>All rights reserved, 2023, Denis Lantsman</rights>
+    <entry>
+        <title type="html"><![CDATA[With AI, you barely need a frontend framework]]></title>
+        <id>vamp</id>
+        <link href="https://dlants.me/vamp.html"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
+        <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
+        <author>
+            <name>Denis Lantsman</name>
+            <email>mail@mail.dlants.me</email>
+            <uri>https://dlants.me</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How does AI change Software Engineering?]]></title>
         <id>ai-se</id>
