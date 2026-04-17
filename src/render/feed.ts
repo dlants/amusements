@@ -19,7 +19,7 @@ export function renderFeed(posts: Map<string, Post>, config: SiteConfig) {
     },
     author: {
       name: "Denis Lantsman",
-      email: "mail@mail.dlants.me",
+      email: "denis.lantsman@gmail.com",
       link: "https://dlants.me",
     },
   });
@@ -40,13 +40,13 @@ export function renderFeed(posts: Map<string, Post>, config: SiteConfig) {
     feed.addItem({
       title: post.frontmatter.title,
       id: post.frontmatter.shortUrl,
-      link: `https://dlants.me/${post.frontmatter.shortUrl}.html`,
+      link: `https://dlants.me/${post.frontmatter.shortUrl}.html?ref=rss`,
       description: "Read the full post at dlants.me",
       content: "Read the full post at dlants.me",
       author: [
         {
           name: "Denis Lantsman",
-          email: "mail@mail.dlants.me",
+          email: "denis.lantsman@gmail.com",
           link: "https://dlants.me",
         },
       ],
@@ -83,13 +83,15 @@ export function renderTagFeed(
     },
     author: {
       name: "Denis Lantsman",
-      email: "mail@mail.dlants.me",
+      email: "denis.lantsman@gmail.com",
       link: "https://dlants.me",
     },
   });
 
   const tagPosts = Array.from(posts.values())
-    .filter((p) => p.frontmatter.publishDate && p.frontmatter.tags?.includes(tag))
+    .filter(
+      (p) => p.frontmatter.publishDate && p.frontmatter.tags?.includes(tag),
+    )
     .sort(
       (a, b) =>
         new Date(b.frontmatter.publishDate).getTime() -
@@ -100,13 +102,13 @@ export function renderTagFeed(
     feed.addItem({
       title: post.frontmatter.title,
       id: post.frontmatter.shortUrl,
-      link: `https://dlants.me/${post.frontmatter.shortUrl}.html`,
+      link: `https://dlants.me/${post.frontmatter.shortUrl}.html?ref=rss`,
       description: "Read the full post at dlants.me",
       content: "Read the full post at dlants.me",
       author: [
         {
           name: "Denis Lantsman",
-          email: "mail@mail.dlants.me",
+          email: "denis.lantsman@gmail.com",
           link: "https://dlants.me",
         },
       ],

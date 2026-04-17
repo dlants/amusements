@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dlants.me/tech</id>
     <title>dlants.me - tech</title>
-    <updated>2026-04-11T18:20:23.013Z</updated>
+    <updated>2026-04-17T17:58:47.440Z</updated>
     <generator>awesome</generator>
     <author>
         <name>Denis Lantsman</name>
-        <email>mail@mail.dlants.me</email>
+        <email>denis.lantsman@gmail.com</email>
         <uri>https://dlants.me</uri>
     </author>
     <link rel="alternate" href="https://dlants.me/tech.html"/>
@@ -17,273 +17,273 @@
     <entry>
         <title type="html"><![CDATA[With AI, you barely need a frontend framework]]></title>
         <id>vamp</id>
-        <link href="https://dlants.me/vamp.html"/>
+        <link href="https://dlants.me/vamp.html?ref=rss"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[How does AI change Software Engineering?]]></title>
         <id>ai-se</id>
-        <link href="https://dlants.me/ai-se.html"/>
+        <link href="https://dlants.me/ai-se.html?ref=rss"/>
         <updated>2026-03-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why I don't think AGI is imminent]]></title>
         <id>agi-not-imminent</id>
-        <link href="https://dlants.me/agi-not-imminent.html"/>
+        <link href="https://dlants.me/agi-not-imminent.html?ref=rss"/>
         <updated>2026-02-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[self compassion and the disposable engineer]]></title>
         <id>self-compassion</id>
-        <link href="https://dlants.me/self-compassion.html"/>
+        <link href="https://dlants.me/self-compassion.html?ref=rss"/>
         <updated>2025-09-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI whiplash, and neovim in the age of AI]]></title>
         <id>ai-whiplash</id>
-        <link href="https://dlants.me/ai-whiplash.html"/>
+        <link href="https://dlants.me/ai-whiplash.html?ref=rss"/>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ecological Dynamics and the Constraints Led Approach to Software Engineering Teams]]></title>
         <id>ed-cla-software-teams</id>
-        <link href="https://dlants.me/ed-cla-software-teams.html"/>
+        <link href="https://dlants.me/ed-cla-software-teams.html?ref=rss"/>
         <updated>2025-04-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI is not mid - a response to Dr. Cottom’s NYT Op-Ed]]></title>
         <id>ai-mid</id>
-        <link href="https://dlants.me/ai-mid.html"/>
+        <link href="https://dlants.me/ai-mid.html?ref=rss"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[coding agents in the real world]]></title>
         <id>claude-3-7-agent</id>
-        <link href="https://dlants.me/claude-3-7-agent.html"/>
+        <link href="https://dlants.me/claude-3-7-agent.html?ref=rss"/>
         <updated>2025-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The LLMonely bookclub - Three Body Problem by Cixin Liu]]></title>
         <id>llmonely-threebody</id>
-        <link href="https://dlants.me/llmonely-threebody.html"/>
+        <link href="https://dlants.me/llmonely-threebody.html?ref=rss"/>
         <updated>2024-11-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye, Substack. Hello, self-hosting.]]></title>
         <id>bye-substack</id>
-        <link href="https://dlants.me/bye-substack.html"/>
+        <link href="https://dlants.me/bye-substack.html?ref=rss"/>
         <updated>2023-08-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The greatest mystery in ed-tech]]></title>
         <id>mystery</id>
-        <link href="https://dlants.me/mystery.html"/>
+        <link href="https://dlants.me/mystery.html?ref=rss"/>
         <updated>2023-08-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker gotchas]]></title>
         <id>docker-gotchas</id>
-        <link href="https://dlants.me/docker-gotchas.html"/>
+        <link href="https://dlants.me/docker-gotchas.html?ref=rss"/>
         <updated>2023-08-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Odin Project Q&A]]></title>
         <id>odin-qa</id>
-        <link href="https://dlants.me/odin-qa.html"/>
+        <link href="https://dlants.me/odin-qa.html?ref=rss"/>
         <updated>2023-03-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts on Twitter]]></title>
         <id>twitter-2022</id>
-        <link href="https://dlants.me/twitter-2022.html"/>
+        <link href="https://dlants.me/twitter-2022.html?ref=rss"/>
         <updated>2022-11-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tao of Software Engineering 2]]></title>
         <id>tao-2</id>
-        <link href="https://dlants.me/tao-2.html"/>
+        <link href="https://dlants.me/tao-2.html?ref=rss"/>
         <updated>2021-02-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tao of Software Engineering 1]]></title>
         <id>tao-1</id>
-        <link href="https://dlants.me/tao-1.html"/>
+        <link href="https://dlants.me/tao-1.html?ref=rss"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Desmos blog post about Pratt Parsers]]></title>
         <id>desmos-pratt</id>
-        <link href="https://dlants.me/desmos-pratt.html"/>
+        <link href="https://dlants.me/desmos-pratt.html?ref=rss"/>
         <updated>2018-12-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[lossless video recording with opencv]]></title>
         <id>lossless-opencv</id>
-        <link href="https://dlants.me/lossless-opencv.html"/>
+        <link href="https://dlants.me/lossless-opencv.html?ref=rss"/>
         <updated>2012-08-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[converting from openni map to opencv mat.]]></title>
         <id>mat-conversion</id>
-        <link href="https://dlants.me/mat-conversion.html"/>
+        <link href="https://dlants.me/mat-conversion.html?ref=rss"/>
         <updated>2012-06-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[kinect timing issues]]></title>
         <id>kinect-timing</id>
-        <link href="https://dlants.me/kinect-timing.html"/>
+        <link href="https://dlants.me/kinect-timing.html?ref=rss"/>
         <updated>2012-06-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[open a videowriter based on a videocapture]]></title>
         <id>videowriter</id>
-        <link href="https://dlants.me/videowriter.html"/>
+        <link href="https://dlants.me/videowriter.html?ref=rss"/>
         <updated>2012-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full post at dlants.me]]></summary>
         <content type="html"><![CDATA[Read the full post at dlants.me]]></content>
         <author>
             <name>Denis Lantsman</name>
-            <email>mail@mail.dlants.me</email>
+            <email>denis.lantsman@gmail.com</email>
             <uri>https://dlants.me</uri>
         </author>
     </entry>

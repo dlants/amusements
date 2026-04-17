@@ -4,7 +4,7 @@
         <title>dlants.me - tech</title>
         <link>https://dlants.me/tech.html</link>
         <description>Posts tagged tech</description>
-        <lastBuildDate>Sat, 11 Apr 2026 18:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 17:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>awesome</generator>
         <language>en</language>
@@ -17,192 +17,192 @@
         <atom:link href="https://dlants.me/tech/rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[With AI, you barely need a frontend framework]]></title>
-            <link>https://dlants.me/vamp.html</link>
+            <link>https://dlants.me/vamp.html?ref=rss</link>
             <guid>vamp</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[How does AI change Software Engineering?]]></title>
-            <link>https://dlants.me/ai-se.html</link>
+            <link>https://dlants.me/ai-se.html?ref=rss</link>
             <guid>ai-se</guid>
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Why I don't think AGI is imminent]]></title>
-            <link>https://dlants.me/agi-not-imminent.html</link>
+            <link>https://dlants.me/agi-not-imminent.html?ref=rss</link>
             <guid>agi-not-imminent</guid>
             <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[self compassion and the disposable engineer]]></title>
-            <link>https://dlants.me/self-compassion.html</link>
+            <link>https://dlants.me/self-compassion.html?ref=rss</link>
             <guid>self-compassion</guid>
             <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[AI whiplash, and neovim in the age of AI]]></title>
-            <link>https://dlants.me/ai-whiplash.html</link>
+            <link>https://dlants.me/ai-whiplash.html?ref=rss</link>
             <guid>ai-whiplash</guid>
             <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Ecological Dynamics and the Constraints Led Approach to Software Engineering Teams]]></title>
-            <link>https://dlants.me/ed-cla-software-teams.html</link>
+            <link>https://dlants.me/ed-cla-software-teams.html?ref=rss</link>
             <guid>ed-cla-software-teams</guid>
             <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[AI is not mid - a response to Dr. Cottom’s NYT Op-Ed]]></title>
-            <link>https://dlants.me/ai-mid.html</link>
+            <link>https://dlants.me/ai-mid.html?ref=rss</link>
             <guid>ai-mid</guid>
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[coding agents in the real world]]></title>
-            <link>https://dlants.me/claude-3-7-agent.html</link>
+            <link>https://dlants.me/claude-3-7-agent.html?ref=rss</link>
             <guid>claude-3-7-agent</guid>
             <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[The LLMonely bookclub - Three Body Problem by Cixin Liu]]></title>
-            <link>https://dlants.me/llmonely-threebody.html</link>
+            <link>https://dlants.me/llmonely-threebody.html?ref=rss</link>
             <guid>llmonely-threebody</guid>
             <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Goodbye, Substack. Hello, self-hosting.]]></title>
-            <link>https://dlants.me/bye-substack.html</link>
+            <link>https://dlants.me/bye-substack.html?ref=rss</link>
             <guid>bye-substack</guid>
             <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[The greatest mystery in ed-tech]]></title>
-            <link>https://dlants.me/mystery.html</link>
+            <link>https://dlants.me/mystery.html?ref=rss</link>
             <guid>mystery</guid>
             <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Docker gotchas]]></title>
-            <link>https://dlants.me/docker-gotchas.html</link>
+            <link>https://dlants.me/docker-gotchas.html?ref=rss</link>
             <guid>docker-gotchas</guid>
             <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Odin Project Q&A]]></title>
-            <link>https://dlants.me/odin-qa.html</link>
+            <link>https://dlants.me/odin-qa.html?ref=rss</link>
             <guid>odin-qa</guid>
             <pubDate>Sat, 25 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Thoughts on Twitter]]></title>
-            <link>https://dlants.me/twitter-2022.html</link>
+            <link>https://dlants.me/twitter-2022.html?ref=rss</link>
             <guid>twitter-2022</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Tao of Software Engineering 2]]></title>
-            <link>https://dlants.me/tao-2.html</link>
+            <link>https://dlants.me/tao-2.html?ref=rss</link>
             <guid>tao-2</guid>
             <pubDate>Fri, 19 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Tao of Software Engineering 1]]></title>
-            <link>https://dlants.me/tao-1.html</link>
+            <link>https://dlants.me/tao-1.html?ref=rss</link>
             <guid>tao-1</guid>
             <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[Desmos blog post about Pratt Parsers]]></title>
-            <link>https://dlants.me/desmos-pratt.html</link>
+            <link>https://dlants.me/desmos-pratt.html?ref=rss</link>
             <guid>desmos-pratt</guid>
             <pubDate>Fri, 21 Dec 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[lossless video recording with opencv]]></title>
-            <link>https://dlants.me/lossless-opencv.html</link>
+            <link>https://dlants.me/lossless-opencv.html?ref=rss</link>
             <guid>lossless-opencv</guid>
             <pubDate>Fri, 31 Aug 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[converting from openni map to opencv mat.]]></title>
-            <link>https://dlants.me/mat-conversion.html</link>
+            <link>https://dlants.me/mat-conversion.html?ref=rss</link>
             <guid>mat-conversion</guid>
             <pubDate>Tue, 19 Jun 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[kinect timing issues]]></title>
-            <link>https://dlants.me/kinect-timing.html</link>
+            <link>https://dlants.me/kinect-timing.html?ref=rss</link>
             <guid>kinect-timing</guid>
             <pubDate>Mon, 18 Jun 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
         <item>
             <title><![CDATA[open a videowriter based on a videocapture]]></title>
-            <link>https://dlants.me/videowriter.html</link>
+            <link>https://dlants.me/videowriter.html?ref=rss</link>
             <guid>videowriter</guid>
             <pubDate>Fri, 15 Jun 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Read the full post at dlants.me]]></description>
             <content:encoded><![CDATA[Read the full post at dlants.me]]></content:encoded>
-            <author>mail@mail.dlants.me (Denis Lantsman)</author>
+            <author>denis.lantsman@gmail.com (Denis Lantsman)</author>
         </item>
     </channel>
 </rss>
