@@ -137,3 +137,17 @@ Eighteen short theses on failure in complex systems. Cook was an anesthesiologis
 _Dan Luu · [danluu.com](https://danluu.com/car-safety/)_
 
 A Goodhart's Law case study. When crash test criteria change, most manufacturers' scores drop because they were optimizing for the test, not for safety. Volvo is the exception that proves the rule.
+
+# Multimedia
+
+## 17776
+
+_Jon Bois · [sbnation.com](https://www.sbnation.com/a/17776-football)_
+
+What Football Will Look Like in the Future is a distillation of the absurd, told through a smattering of web technologies. What would immortal beings do with infinite time?
+
+## Rational Funk
+
+_Dave King · [youtube.com](https://www.youtube.com/c/rationalfunkwithdaveking)_
+
+A deadpan satire of the YouTube music tutorial genre. If this floats your boat, check out [lightscameronjackson.com](https://www.daveking.net/lightscameronjackson) if you've ever wanted to watch a man choose what apples to buy for 15 minutes. Profoundly avant-garde.
