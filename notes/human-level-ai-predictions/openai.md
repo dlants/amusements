@@ -2,6 +2,71 @@
 
 OpenAI is a private company, and it runs on investment!
 
+## Source Timeline
+
+Every source cited in this note, ordered by when it reported. For each: who reported it, whether it's primary (the originator of the number) or secondary (reporting/aggregating someone else's number), and the concrete claims it makes.
+
+- **Sept 2024 — PYMNTS** (secondary): 10M ChatGPT Plus subscribers paying $20/month. [source](https://www.pymnts.com/artificial-intelligence-2/2024/openai-reportedly-projects-5-billion-loss-this-year/)
+- **Oct 2024 — OpenAI** (primary): Series E — $6.6B raised at $157B post-money valuation. [source](https://openai.com/index/scale-the-benefits-of-ai/)
+- **March 2025 — OpenAI** (primary): Series F — $40B raised at $300B post-money, largest private round ever. SoftBank led. [source](https://openai.com/index/march-funding-updates/)
+- **~Sept 2025 — The Information** (secondary, viewed shareholder documents): H1 2025 (Jan–June) revenue $4.3B; cash burn $2.5B; net loss $6.9B. States H1 revenue was "16% more than all of 2024," implying 2024 ≈ $3.7B. [source](https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn)
+- **Sept 2025 — Tom's Hardware** (secondary): OpenAI and Microsoft sign a non-binding memorandum of understanding. [source](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-reach-an-understanding-over-ongoing-contract-negotiations-but-agi-clause-remains-an-uncertainty)
+- **Oct 2025 — OpenAI** (primary): Definitive agreement; OpenAI contracts to purchase $250B in Azure services (timeframe undisclosed); Microsoft gives up cloud right-of-first-refusal. [source](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
+- **Oct 2025 — Search Engine Journal / Data Center Dynamics** (secondary): Same deal — partnership locked through 2032; Microsoft gets 27% stake; no more right of first refusal. [source](https://www.searchenginejournal.com/microsoft-locks-in-openai-partnership-through-2032/559492/) [source](https://www.datacenterdynamics.com/en/news/openai-completes-for-profit-move-microsoft-given-27-stake-and-250bn-azure-contract-but-no-longer-has-cloud-right-of-first-refusal/)
+- **Late Oct 2025 — Microsoft SEC 10-Q** (primary, equity-method accounting; covers July–Sept 2025): Total funding commitments to OpenAI of $13B, $11.6B funded as of Sept 30 2025; Microsoft owns 27% (was 32.5% before the for-profit conversion mid-quarter); OpenAI net losses reduced Microsoft net income by $3.1B after tax / $4.1B pre-tax. Implies ~$12.6B OpenAI net loss for Q3 2025 (disputed — see analysis below). [source](https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm)
+- **Oct 29 2025 — CNBC** (secondary): Microsoft has committed $13B total, $11.6B funded as of Sept 2025. [source](https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html)
+- **Late Oct 2025 — Thurrott** (secondary, reporting Microsoft earnings call): UBS analyst Karl Keirstead questions whether the $4.1B figure is really just OpenAI's loss share; CFO Amy Hood says it is, without further explanation. [source](https://www.thurrott.com/a-i/openai-a-i/329108/openai-lost-12-billion-in-the-previous-quarter)
+- **Nov 2 2025 — TechCrunch** (secondary): Sam Altman (BG2 podcast) claims 2025 revenue "well more" than $13B. [source](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/)
+- **Nov 12 2025 — Fortune (reporting WSJ investor documents shared summer 2025)** (secondary, citing leaked internal docs): 2024 loss ~$5B; 2025 ~$22B spending, ~$13B revenue, ~$9B loss ($1.69 spent per $1 revenue); burn 57% of revenue in 2026–2027, ~75% in 2028; 2028 ~$74B operating losses; cash-flow positive by 2029–2030; internal targets of $100B ARR by end-2028 and $200B by end-2030. [source](https://fortune.com/2025/11/12/openai-cash-burn-rate-annual-losses-2028-profitable-2030-financial-documents/)
+- **Nov 14 2025 — TechCrunch (leaked Microsoft documents)** (secondary, citing leaked primary docs): Training compute paid via Azure credits (non-cash); inference paid in cash; revenue share is bidirectional — OpenAI pays Microsoft 20% of revenue, Microsoft pays OpenAI 20% of Bing + Azure OpenAI Service revenue. [source](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
+- **Nov 2025 — Ed Zitron / Where's Your Ed At (leaked Microsoft internal accounting)** (secondary, citing leaked primary docs): Azure inference cash cost was $3.8B in 2024 (~$317M/mo) and $8.65B in Jan–Sept 2025 (~$961M/mo), ~3× in under a year. Separately flags the Q3 loss jump ($13.5B over 6 months → $12B over 3 months) as unexplained. Also defines ARR as one month × 12. [source](https://www.wheresyoured.at/oai_docs/) [source](https://www.wheresyoured.at/where-is-openais-money-going/)
+- **Dec 2025 — Calcalist (reporting WSJ)** (secondary): OpenAI seeking to raise $100B at an $830B valuation, mainly to finance compute. [source](https://www.calcalistech.com/ctechnews/article/hkr1niibbl)
+- **Jan 2026 — OpenAI / CFO Sarah Friar** (primary): ARR of $2B (2023), $6B (2024), $20B+ (exiting 2025); computing capacity 0.6 GW (2024) → 1.9 GW (2025). [source](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/) [source](https://finance.yahoo.com/news/openai-cfo-says-annualized-revenue-173519097.html)
+- **Jan 2026 — Pivot to AI** (secondary): OpenAI committed to pay ~$130B over 2026–2027, before the $1.4T in data-center letters of intent. [source](https://pivot-to-ai.com/2026/01/23/openai-faces-cash-crunch-in-2026-as-bills-come-due/)
+- **March 2026 — OpenAI** (primary): Raised $122B at ~$852B valuation (largest round to date); ~$2B revenue/month; 900M+ weekly active users; 50M+ subscribers; enterprise >40% of revenue, "on track to reach parity with consumer by end of 2026." [source](https://openai.com/index/accelerating-the-next-phase-ai/)
+- **2026 (Q1) — The Information** (secondary, sources familiar with financials): Q1 2026 revenue $5.7B, ~$1B more than Anthropic in the same period. [source](https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter)
+- **2026 — Ed Zitron / Where's Your Ed At** (secondary): Q1 2026 adjusted operating margin ~-122% (losing ~$1.22 per $1 revenue); on track for ~$30B 2026 revenue implying >$36B losses; WAU hit 920M in Feb but Q1 average 905M (missed the 1B-in-2025 expectation); paying customers ~55M at end of Q1, up from ~47M. [source](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/)
+- **April 27 2026 — Wall Street Journal (via CNBC)** (secondary, sources familiar): OpenAI has missed its own internal revenue and user-growth projections; CFO Sarah Friar warned the company could struggle to fund future compute deals if growth doesn't accelerate and is pushing cost cuts. OpenAI called it "ridiculous." AI-infra stocks dropped (Oracle -4%, Broadcom -4%, AMD -3%, Nvidia -1%). [source](https://www.cnbc.com/2026/04/28/openais-revenue-growth-estimates-fall-short-report.html)
+- **2026 — Investing.com** (secondary): Anthropic annualized revenue near $45B vs OpenAI ~$25B (Feb figure); Anthropic raising at up to $950B valuation vs OpenAI's $852B. [source](https://www.investing.com/analysis/the-ai-token-pricing-crisis-behind-openai-and-anthropics-revenue-race-200680777)
+
+### Background / aggregator sources (no single report date)
+
+- **Tracxn** (secondary, aggregator): ~$57.9B total raised across 9 rounds as of early 2025. [source](https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg/funding-and-investors)
+- **PitchBook** (secondary, aggregator): "$63.9B" total funding raised. [source](https://pitchbook.com/profiles/company/149504-14)
+- **TapTwice Digital** (secondary): SoftBank invested $30B (lead in Series F). [source](https://taptwicedigital.com/stats/openai)
+- **Sacra** (secondary): H1 2025 R&D $6.7B; corroborates Friar ARR figures. [source](https://sacra.com/c/openai/)
+- **The Information / saastr** (secondary): July 2025 was OpenAI's first $1B revenue month; crossed $12B ARR. [source](https://www.saastr.com/openai-crosses-12-billion-arr-the-3-year-sprint-that-redefined-whats-possible-in-scaling-software/)
+- **Entrepreneur** (secondary): H1 2025 revenue $4.3B (more than all of 2024). [source](https://www.entrepreneur.com/business-news/openai-saw-more-revenue-in-six-months-than-all-of-last-year/497774)
+- **Tom Tunguz** (secondary): ~$1.4T total infrastructure commitments over ~8 years — Broadcom $350B, Oracle $300B, Nvidia $100B, AMD $90B, Amazon AWS $38B, CoreWeave $22B. [source](https://tomtunguz.com/openai-hardware-spending-2025-2035/)
+- **Backlinko** (secondary): ~900M weekly active users (Dec 2025). [source](https://backlinko.com/chatgpt-stats)
+- **ContentGrip** (secondary): ~35–45M paid subscribers, ~5% conversion; OpenAI 2030 user targets of 2.6B WAU, 220M paid, 8.5% conversion. [source](https://www.contentgrip.com/openai-chatgpt-subscription-strategy/)
+- **The Decoder** (secondary): 2023 loss ~$2B (implied by $44B cumulative 2023–2028 loss projection). [source](https://the-decoder.com/openai-investors-face-high-risks-internal-forecasts-show/)
+- **36Kr** (secondary): Leaked forecasts project $17B cash burn in 2026 (up from $9B in 2025). [source](https://eu.36kr.com/en/p/3624813808157699)
+- **Wiss / The Information** (secondary): Annual cash burn rising $17B (2026) → $35B (2027) → peak $47B (2028). [source](https://wiss.com/openai-valuation/)
+- **Futurism** (secondary): Sebastian Mallaby predicts OpenAI could run out of money within ~18 months (mid-2027). [source](https://futurism.com/artificial-intelligence/financial-expert-openai-running-out-of-money)
+- **eMarketer** (secondary): Deutsche Bank expects ~$143B cumulative negative free cash flow 2024–2029 before profitability. [source](https://www.emarketer.com/content/openai-forecast-143-billion-loss-raises-stakes-ai-monetization)
+
+## Observed Revenue
+
+Actual reported revenue figures (not ARR, not projections). Where a source reports ARR, it's noted separately at the bottom since ARR = one month × 12, not realized revenue.
+
+**Realized revenue (actuals):**
+
+- **2024 (full year):** ~$3.7B — The Information, implied by H1 2025 being "16% more than all of 2024." [source](https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn)
+- **Dec 2024 (month):** ~$500M/month — derived from $6B ARR ÷ 12. [source](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/)
+- **H1 2025 (Jan–June):** $4.3B — The Information, from shareholder documents. [source](https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn)
+- **July 2025 (month):** first $1B revenue month — saastr / The Information. [source](https://www.saastr.com/openai-crosses-12-billion-arr-the-3-year-sprint-that-redefined-whats-possible-in-scaling-software/)
+- **Dec 2025 (month):** ~$2B/month run rate — OpenAI, March 2026 funding announcement. [source](https://openai.com/index/accelerating-the-next-phase-ai/)
+- **Q1 2026:** $5.7B (~$1.9B/month) — The Information, sources familiar with financials. [source](https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter)
+
+**ARR snapshots (one month × 12, reported by OpenAI/CFO Sarah Friar unless noted):**
+
+- **2023 (exit):** $2B ARR. [source](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/)
+- **2024 (exit):** $6B ARR. [source](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/)
+- **July 2025:** crossed $12B ARR — saastr. [source](https://www.saastr.com/openai-crosses-12-billion-arr-the-3-year-sprint-that-redefined-whats-possible-in-scaling-software/)
+- **2025 (exit):** $20B+ ARR. [source](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/)
+- **Feb 2026:** ~$25B ARR (per Investing.com, vs Anthropic ~$45B). [source](https://www.investing.com/analysis/the-ai-token-pricing-crisis-behind-openai-and-anthropics-revenue-race-200680777)
+
 ## Funding & Valuation
 
 - **March 2025 (Series F):** $40 billion raised at $300 billion post-money valuation - the largest private funding round ever. [source](https://openai.com/index/march-funding-updates/)
@@ -23,6 +88,10 @@ We don't have a breakdown for cash vs Azure credits, but training compute is pai
 ### Future funding (December 2025)
 
 The Wall Street Journal reported OpenAI was seeking to raise $100 billion at a valuation of $830 billion, primarily to finance further expansion of computing infrastructure. [source](https://www.calcalistech.com/ctechnews/article/hkr1niibbl)
+
+### March 2026 round (actual)
+
+OpenAI raised $122 billion at a ~$852 billion valuation, its largest round to date. [source](https://openai.com/index/accelerating-the-next-phase-ai/)
 
 ## Revenue
 
@@ -47,6 +116,9 @@ Note: OpenAI reports **ARR** (Annual Recurring Revenue) which is a single month'
 - 2024 (December): ~$500M/month (from $6B ARR ÷ 12)
 - 2025 (first half, Jan-June): $4.3B (shareholder documents viewed by The Information) [source](https://www.entrepreneur.com/business-news/openai-saw-more-revenue-in-six-months-than-all-of-last-year/497774)
 - 2025 (July): First $1B revenue month [source](https://www.saastr.com/openai-crosses-12-billion-arr-the-3-year-sprint-that-redefined-whats-possible-in-scaling-software/)
+- 2025 (December): First $1B revenue month milestone passed; OpenAI exits year at ~$2B/month run rate (see below)
+- 2026 (March, OpenAI funding announcement): ~$2B revenue per month, 900M+ weekly active users, 50M+ subscribers; enterprise now >40% of revenue and "on track to reach parity with consumer by the end of 2026" [source](https://openai.com/index/accelerating-the-next-phase-ai/)
+- 2026 (first quarter): $5.7B revenue, ~$1B more than Anthropic in the same period (The Information, via sources familiar with the financials) [source](https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter)
 
 **2025 revenue analysis:**
 
@@ -342,6 +414,24 @@ Current state (Dec 2025): 800M weekly active users, 15M paid subscribers (2% con
 10 million ChatGPT Plus subscribers paying $20/month (as of Sept 2024) [source](https://www.pymnts.com/artificial-intelligence-2/2024/openai-reportedly-projects-5-billion-loss-this-year/)
 
 ChatGPT is projected to be ~50% of 2030 revenue ($100B). The remaining $100B comes from API (~20%), enterprise contracts, and new products (agents, Sora, etc.).
+
+## 2026 check-in (as of June 2026)
+
+The 2025 revenue model held up well: the note projected ~$1.6B/month and ~$20B exit ARR for December 2025, and OpenAI's March 2026 funding announcement confirms ~$2B/month. [source](https://openai.com/index/accelerating-the-next-phase-ai/) CFO Sarah Friar separately confirmed $20B (2025), $6B (2024), and $2B (2023). [source](https://sacra.com/c/openai/)
+
+The hard part the note flagged (doubling the monthly run rate from $1.6B to $3.8B during 2026) is not materializing on schedule:
+
+- Q1 2026 revenue was $5.7B, about $1.9B/month average, meaning the run rate has roughly flatlined near $2B rather than accelerating. [source](https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter)
+- OpenAI is reportedly "on track" for ~$30B revenue in 2026, but with adjusted operating margins around -122% (losing ~$1.22 per $1 of revenue), implying losses over $36B. [source](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/)
+- User growth has stalled. Weekly active users hit 920M in February but the Q1 average was 905M, and OpenAI had expected to pass 1 billion WAU in 2025. [source](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/)
+- Paying ChatGPT customers reached ~55M at the end of Q1, up from ~47M at year-end. [source](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/)
+
+**WSJ: OpenAI internally acknowledges the slowdown (April 27, 2026).** The Wall Street Journal reported OpenAI has fallen short of its own revenue and user-growth projections, and that CFO Sarah Friar warned colleagues the company could struggle to fund future compute agreements if growth doesn't accelerate; she is reportedly working with executives to clamp down on costs. OpenAI publicly called the report "ridiculous," saying it remains "totally aligned on buying as much compute as we can." The report knocked AI-infrastructure stocks (Oracle -4%, Broadcom -4%, AMD -3%, Nvidia -1%). [source](https://www.cnbc.com/2026/04/28/openais-revenue-growth-estimates-fall-short-report.html) [source](https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html)
+
+**No new revenue figure since Q1 2026 (as of June 2026).** Aside from the WSJ slowdown story, no source has reported a revenue number more recent than the Q1 2026 $5.7B / ~$2B per month. The Information could not get ahold of OpenAI's Q2 2026 figures. [source](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/) The most recent third-party stat roundups (May–June 2026) still cite the same ~$2B/month run rate and ~$25B annualized as of February/March 2026. [source](https://technologychecker.io/blog/chatgpt-statistics) The silence is itself notable: OpenAI publicized monthly milestones aggressively through 2025, so the absence of an updated figure is consistent with the reported flatline.
+
+Per The Information, the $5.7B Q1 2026 revenue was driven mainly by the Codex coding agent, enterprise sales growth, and early ChatGPT advertising. [source](https://news.futunn.com/en/post/73488898/openai-reported-first-quarter-revenue-of-nearly-5-7-billion)
+**Anthropic has reportedly passed OpenAI on ARR.** Anthropic's annualized revenue approached $45B versus OpenAI's ~$25B (February figure), and Anthropic is raising at a valuation of up to $950B, ahead of OpenAI's $852B. [source](https://www.investing.com/analysis/the-ai-token-pricing-crisis-behind-openai-and-anthropics-revenue-race-200680777)
 
 ## Full financial picture (Beginning of 2026)
 
